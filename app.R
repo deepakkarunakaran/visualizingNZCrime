@@ -62,9 +62,8 @@ all_tweets <- read.zoo(all_tweets_by_ym)
 ### setting up the data for map
 
 pal <- colorBin("RdYlBu", domain = 0:39)
-nz_regions <- readOGR("./data/vector2/vector.shp")
-#labels <- paste("<p>",nz_regions$NAME_2,"</p>")
- 
+nz_regions <- readOGR("./data/vector2/vector4.shp")
+  
 
 
 
@@ -72,7 +71,7 @@ ui <- dashboardPage(
     skin = "blue",
     dashboardHeader(title = "Dashboard"),
     dashboardSidebar(
-        sliderInput("year_range",label = "Year:",
+        sliderInput(inputId ="year_range",label = "Year:",
                     min = 2015,
                     max = 2019,
                     value = 1,
@@ -121,12 +120,21 @@ ui <- dashboardPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
- 
+ reactive({print(input$month_range)})  
+    
+  
+  data<-reactive({crimes_data[which(crimes_data$Year.Month == 
+                                      paste(input$month_range,input$year_range)),]})
+  
+  data_ordered <- reactive({
+    data()[order(match(data()$Territorial.Authority,nz_regions$NAME_2)),]$Victimisations
+    
+  })
+  
  
   labels <-reactive({
     paste("<p>",nz_regions$NAME_2,"</P>"
-          ,"<p>",crimes_data[which(crimes_data$Year.Month == 
-                                     paste(input$month_range,input$year_range)),]$Victimisations*10,
+          ,"<p>",data_ordered(),
     "</p>",sep = "")
   })
   
@@ -153,8 +161,7 @@ server <- function(input, output) {
                    smoothFactor = 0.5,
                    color = "white",
                     fillOpacity = 0.8,
-                   fillColor = pal(log10(crimes_data[which(crimes_data$Year.Month == 
-                                                             paste(input$month_range,input$year_range)),]$Victimisations)*10),
+                   fillColor = pal(log10(data_ordered())*10),
                    highlightOptions = highlightOptions(
                      weight=1,
                      color = "green",
