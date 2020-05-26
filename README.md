@@ -10,5 +10,6 @@ This is a small project which uses R/Shiny/Leaflet and Python to analyze victimi
  
  
  Check the video link for a short demo: https://youtu.be/hTPTUqEtU18
+ More details in this article: https://medium.com/@dyaus/analyzing-crime-and-twitter-data-for-new-zealand-e79aa5b759ed
 
 
