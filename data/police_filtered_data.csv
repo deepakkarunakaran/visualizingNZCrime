@@ -1,0 +1,4555 @@
+,Year Month,Territorial Authority,Victimisations
+0,April 2015,Ashburton,76
+1,April 2015,Auckland,6828
+2,April 2015,Buller,20
+3,April 2015,Carterton,23
+4,April 2015,Central Hawke's Bay,21
+5,April 2015,Central Otago,28
+6,April 2015,Christchurch,1554
+7,April 2015,Clutha,28
+8,April 2015,Dunedin,296
+9,April 2015,Far North,237
+10,April 2015,Gisborne,178
+11,April 2015,Gore,20
+12,April 2015,Grey,30
+13,April 2015,Hamilton,658
+14,April 2015,Hastings,301
+15,April 2015,Hauraki,62
+16,April 2015,Horowhenua,105
+17,April 2015,Hurunui,23
+18,April 2015,Invercargill,100
+19,April 2015,Kaikoura,22
+20,April 2015,Kaipara,51
+21,April 2015,Kapiti Coast,151
+22,April 2015,Kawerau,19
+23,April 2015,Lower Hutt,526
+24,April 2015,Mackenzie,11
+25,April 2015,Manawatu,42
+26,April 2015,Marlborough,75
+27,April 2015,Masterton,120
+28,April 2015,Matamata-Piako,107
+29,April 2015,Napier,264
+30,April 2015,Nelson,120
+31,April 2015,New Plymouth,138
+32,April 2015,Opotiki,33
+33,April 2015,Otorohanga,28
+34,April 2015,Palmerston North,341
+35,April 2015,Porirua,198
+36,April 2015,Queenstown-Lakes,61
+37,April 2015,Rangitikei,23
+38,April 2015,Rotorua,321
+39,April 2015,Ruapehu,32
+40,April 2015,Selwyn,41
+41,April 2015,South Taranaki,46
+42,April 2015,South Waikato,70
+43,April 2015,South Wairarapa,21
+44,April 2015,Southland,59
+45,April 2015,Stratford,13
+46,April 2015,Tararua,52
+47,April 2015,Tasman,88
+48,April 2015,Taupo,191
+49,April 2015,Tauranga,356
+50,April 2015,Thames-Coromandel,66
+51,April 2015,Timaru,128
+52,April 2015,Upper Hutt,140
+53,April 2015,Waikato,224
+54,April 2015,Waimakariri,72
+55,April 2015,Waimate,6
+56,April 2015,Waipa,112
+57,April 2015,Wairoa,30
+58,April 2015,Waitaki,49
+59,April 2015,Waitomo,22
+60,April 2015,Wanganui,162
+61,April 2015,Wellington,801
+62,April 2015,Western Bay of Plenty,86
+63,April 2015,Westland,16
+64,April 2015,Whakatane,102
+65,April 2015,Whangarei,446
+66,April 2016,Ashburton,80
+67,April 2016,Auckland,6647
+68,April 2016,Buller,27
+69,April 2016,Carterton,19
+70,April 2016,Central Hawke's Bay,17
+71,April 2016,Central Otago,26
+72,April 2016,Christchurch,1737
+73,April 2016,Clutha,35
+74,April 2016,Dunedin,342
+75,April 2016,Far North,349
+76,April 2016,Gisborne,202
+77,April 2016,Gore,36
+78,April 2016,Grey,28
+79,April 2016,Hamilton,883
+80,April 2016,Hastings,335
+81,April 2016,Hauraki,59
+82,April 2016,Horowhenua,122
+83,April 2016,Hurunui,23
+84,April 2016,Invercargill,152
+85,April 2016,Kaikoura,31
+86,April 2016,Kaipara,67
+87,April 2016,Kapiti Coast,120
+88,April 2016,Kawerau,30
+89,April 2016,Lower Hutt,417
+90,April 2016,Mackenzie,4
+91,April 2016,Manawatu,59
+92,April 2016,Marlborough,101
+93,April 2016,Masterton,94
+94,April 2016,Matamata-Piako,148
+95,April 2016,Napier,322
+96,April 2016,Nelson,270
+97,April 2016,New Plymouth,211
+98,April 2016,Opotiki,46
+99,April 2016,Otorohanga,14
+100,April 2016,Palmerston North,482
+101,April 2016,Porirua,173
+102,April 2016,Queenstown-Lakes,74
+103,April 2016,Rangitikei,31
+104,April 2016,Rotorua,551
+105,April 2016,Ruapehu,28
+106,April 2016,Selwyn,82
+107,April 2016,South Taranaki,72
+108,April 2016,South Waikato,122
+109,April 2016,South Wairarapa,22
+110,April 2016,Southland,70
+111,April 2016,Stratford,30
+112,April 2016,Tararua,53
+113,April 2016,Tasman,128
+114,April 2016,Taupo,219
+115,April 2016,Tauranga,448
+116,April 2016,Thames-Coromandel,99
+117,April 2016,Timaru,85
+118,April 2016,Upper Hutt,155
+119,April 2016,Waikato,191
+120,April 2016,Waimakariri,72
+121,April 2016,Waimate,11
+122,April 2016,Waipa,87
+123,April 2016,Wairoa,31
+124,April 2016,Waitaki,44
+125,April 2016,Waitomo,25
+126,April 2016,Wanganui,166
+127,April 2016,Wellington,613
+128,April 2016,Western Bay of Plenty,129
+129,April 2016,Westland,31
+130,April 2016,Whakatane,121
+131,April 2016,Whangarei,439
+132,April 2017,Ashburton,73
+133,April 2017,Auckland,6361
+134,April 2017,Buller,23
+135,April 2017,Carterton,11
+136,April 2017,Central Hawke's Bay,31
+137,April 2017,Central Otago,32
+138,April 2017,Christchurch,1609
+139,April 2017,Clutha,43
+140,April 2017,Dunedin,293
+141,April 2017,Far North,273
+142,April 2017,Gisborne,310
+143,April 2017,Gore,39
+144,April 2017,Grey,38
+145,April 2017,Hamilton,959
+146,April 2017,Hastings,414
+147,April 2017,Hauraki,96
+148,April 2017,Horowhenua,120
+149,April 2017,Hurunui,27
+150,April 2017,Invercargill,160
+151,April 2017,Kaikoura,10
+152,April 2017,Kaipara,72
+153,April 2017,Kapiti Coast,196
+154,April 2017,Kawerau,17
+155,April 2017,Lower Hutt,459
+156,April 2017,Mackenzie,4
+157,April 2017,Manawatu,89
+158,April 2017,Marlborough,121
+159,April 2017,Masterton,93
+160,April 2017,Matamata-Piako,115
+161,April 2017,Napier,397
+162,April 2017,Nelson,213
+163,April 2017,New Plymouth,156
+164,April 2017,Opotiki,33
+165,April 2017,Otorohanga,19
+166,April 2017,Palmerston North,498
+167,April 2017,Porirua,173
+168,April 2017,Queenstown-Lakes,60
+169,April 2017,Rangitikei,39
+170,April 2017,Rotorua,445
+171,April 2017,Ruapehu,48
+172,April 2017,Selwyn,78
+173,April 2017,South Taranaki,65
+174,April 2017,South Waikato,77
+175,April 2017,South Wairarapa,30
+176,April 2017,Southland,36
+177,April 2017,Stratford,20
+178,April 2017,Tararua,32
+179,April 2017,Tasman,104
+180,April 2017,Taupo,164
+181,April 2017,Tauranga,474
+182,April 2017,Thames-Coromandel,109
+183,April 2017,Timaru,88
+184,April 2017,Upper Hutt,132
+185,April 2017,Waikato,220
+186,April 2017,Waimakariri,116
+187,April 2017,Waimate,14
+188,April 2017,Waipa,105
+189,April 2017,Wairoa,30
+190,April 2017,Waitaki,49
+191,April 2017,Waitomo,30
+192,April 2017,Wanganui,192
+193,April 2017,Wellington,608
+194,April 2017,Western Bay of Plenty,102
+195,April 2017,Westland,20
+196,April 2017,Whakatane,95
+197,April 2017,Whangarei,372
+198,April 2018,Ashburton,105
+199,April 2018,Auckland,6066
+200,April 2018,Buller,31
+201,April 2018,Carterton,18
+202,April 2018,Central Hawke's Bay,37
+203,April 2018,Central Otago,32
+204,April 2018,Christchurch,1670
+205,April 2018,Clutha,36
+206,April 2018,Dunedin,237
+207,April 2018,Far North,322
+208,April 2018,Gisborne,199
+209,April 2018,Gore,31
+210,April 2018,Grey,40
+211,April 2018,Hamilton,766
+212,April 2018,Hastings,358
+213,April 2018,Hauraki,56
+214,April 2018,Horowhenua,151
+215,April 2018,Hurunui,25
+216,April 2018,Invercargill,160
+217,April 2018,Kaikoura,9
+218,April 2018,Kaipara,50
+219,April 2018,Kapiti Coast,136
+220,April 2018,Kawerau,16
+221,April 2018,Lower Hutt,458
+222,April 2018,Mackenzie,11
+223,April 2018,Manawatu,103
+224,April 2018,Marlborough,113
+225,April 2018,Masterton,130
+226,April 2018,Matamata-Piako,104
+227,April 2018,Napier,389
+228,April 2018,Nelson,135
+229,April 2018,New Plymouth,189
+230,April 2018,Opotiki,33
+231,April 2018,Otorohanga,37
+232,April 2018,Palmerston North,391
+233,April 2018,Porirua,200
+234,April 2018,Queenstown-Lakes,82
+235,April 2018,Rangitikei,33
+236,April 2018,Rotorua,406
+237,April 2018,Ruapehu,44
+238,April 2018,Selwyn,71
+239,April 2018,South Taranaki,71
+240,April 2018,South Waikato,88
+241,April 2018,South Wairarapa,16
+242,April 2018,Southland,44
+243,April 2018,Stratford,16
+244,April 2018,Tararua,55
+245,April 2018,Tasman,88
+246,April 2018,Taupo,167
+247,April 2018,Tauranga,482
+248,April 2018,Thames-Coromandel,135
+249,April 2018,Timaru,95
+250,April 2018,Upper Hutt,124
+251,April 2018,Waikato,229
+252,April 2018,Waimakariri,116
+253,April 2018,Waimate,14
+254,April 2018,Waipa,103
+255,April 2018,Wairoa,26
+256,April 2018,Waitaki,57
+257,April 2018,Waitomo,25
+258,April 2018,Wanganui,223
+259,April 2018,Wellington,699
+260,April 2018,Western Bay of Plenty,118
+261,April 2018,Westland,14
+262,April 2018,Whakatane,115
+263,April 2018,Whangarei,362
+264,April 2019,Ashburton,91
+265,April 2019,Auckland,6429
+266,April 2019,Buller,37
+267,April 2019,Carterton,17
+268,April 2019,Central Hawke's Bay,30
+269,April 2019,Central Otago,49
+270,April 2019,Christchurch,1759
+271,April 2019,Clutha,33
+272,April 2019,Dunedin,236
+273,April 2019,Far North,299
+274,April 2019,Gisborne,209
+275,April 2019,Gore,36
+276,April 2019,Grey,32
+277,April 2019,Hamilton,898
+278,April 2019,Hastings,313
+279,April 2019,Hauraki,66
+280,April 2019,Horowhenua,135
+281,April 2019,Hurunui,37
+282,April 2019,Invercargill,144
+283,April 2019,Kaikoura,11
+284,April 2019,Kaipara,44
+285,April 2019,Kapiti Coast,170
+286,April 2019,Kawerau,24
+287,April 2019,Lower Hutt,406
+288,April 2019,Mackenzie,13
+289,April 2019,Manawatu,91
+290,April 2019,Marlborough,110
+291,April 2019,Masterton,100
+292,April 2019,Matamata-Piako,121
+293,April 2019,Napier,399
+294,April 2019,Nelson,145
+295,April 2019,New Plymouth,260
+296,April 2019,Opotiki,51
+297,April 2019,Otorohanga,27
+298,April 2019,Palmerston North,467
+299,April 2019,Porirua,244
+300,April 2019,Queenstown-Lakes,81
+301,April 2019,Rangitikei,33
+302,April 2019,Rotorua,389
+303,April 2019,Ruapehu,43
+304,April 2019,Selwyn,83
+305,April 2019,South Taranaki,66
+306,April 2019,South Waikato,82
+307,April 2019,South Wairarapa,17
+308,April 2019,Southland,61
+309,April 2019,Stratford,22
+310,April 2019,Tararua,41
+311,April 2019,Tasman,102
+312,April 2019,Taupo,151
+313,April 2019,Tauranga,499
+314,April 2019,Thames-Coromandel,102
+315,April 2019,Timaru,136
+316,April 2019,Upper Hutt,105
+317,April 2019,Waikato,235
+318,April 2019,Waimakariri,119
+319,April 2019,Waimate,8
+320,April 2019,Waipa,114
+321,April 2019,Wairoa,56
+322,April 2019,Waitaki,73
+323,April 2019,Waitomo,37
+324,April 2019,Wanganui,188
+325,April 2019,Wellington,841
+326,April 2019,Western Bay of Plenty,124
+327,April 2019,Westland,7
+328,April 2019,Whakatane,153
+329,April 2019,Whangarei,311
+330,August 2014,Ashburton,65
+331,August 2014,Auckland,6063
+332,August 2014,Buller,24
+333,August 2014,Carterton,14
+334,August 2014,Central Hawke's Bay,38
+335,August 2014,Central Otago,38
+336,August 2014,Christchurch,1480
+337,August 2014,Clutha,44
+338,August 2014,Dunedin,330
+339,August 2014,Far North,200
+340,August 2014,Gisborne,193
+341,August 2014,Gore,19
+342,August 2014,Grey,32
+343,August 2014,Hamilton,827
+344,August 2014,Hastings,333
+345,August 2014,Hauraki,70
+346,August 2014,Horowhenua,122
+347,August 2014,Hurunui,17
+348,August 2014,Invercargill,183
+349,August 2014,Kaikoura,10
+350,August 2014,Kaipara,46
+351,August 2014,Kapiti Coast,119
+352,August 2014,Kawerau,39
+353,August 2014,Lower Hutt,478
+354,August 2014,Mackenzie,4
+355,August 2014,Manawatu,80
+356,August 2014,Marlborough,92
+357,August 2014,Masterton,110
+358,August 2014,Matamata-Piako,112
+359,August 2014,Napier,272
+360,August 2014,Nelson,199
+361,August 2014,New Plymouth,184
+362,August 2014,Opotiki,40
+363,August 2014,Otorohanga,13
+364,August 2014,Palmerston North,398
+365,August 2014,Porirua,197
+366,August 2014,Queenstown-Lakes,98
+367,August 2014,Rangitikei,38
+368,August 2014,Rotorua,409
+369,August 2014,Ruapehu,56
+370,August 2014,Selwyn,44
+371,August 2014,South Taranaki,73
+372,August 2014,South Waikato,85
+373,August 2014,South Wairarapa,30
+374,August 2014,Southland,57
+375,August 2014,Stratford,13
+376,August 2014,Tararua,60
+377,August 2014,Tasman,112
+378,August 2014,Taupo,138
+379,August 2014,Tauranga,407
+380,August 2014,Thames-Coromandel,77
+381,August 2014,Timaru,87
+382,August 2014,Upper Hutt,148
+383,August 2014,Waikato,182
+384,August 2014,Waimakariri,74
+385,August 2014,Waimate,17
+386,August 2014,Waipa,96
+387,August 2014,Wairoa,21
+388,August 2014,Waitaki,51
+389,August 2014,Waitomo,21
+390,August 2014,Wanganui,174
+391,August 2014,Wellington,731
+392,August 2014,Western Bay of Plenty,77
+393,August 2014,Westland,9
+394,August 2014,Whakatane,120
+395,August 2014,Whangarei,319
+396,August 2015,Ashburton,54
+397,August 2015,Auckland,6555
+398,August 2015,Buller,26
+399,August 2015,Carterton,25
+400,August 2015,Central Hawke's Bay,19
+401,August 2015,Central Otago,19
+402,August 2015,Christchurch,1678
+403,August 2015,Clutha,42
+404,August 2015,Dunedin,237
+405,August 2015,Far North,257
+406,August 2015,Gisborne,184
+407,August 2015,Gore,18
+408,August 2015,Grey,29
+409,August 2015,Hamilton,909
+410,August 2015,Hastings,370
+411,August 2015,Hauraki,52
+412,August 2015,Horowhenua,88
+413,August 2015,Hurunui,30
+414,August 2015,Invercargill,162
+415,August 2015,Kaikoura,14
+416,August 2015,Kaipara,54
+417,August 2015,Kapiti Coast,140
+418,August 2015,Kawerau,62
+419,August 2015,Lower Hutt,470
+420,August 2015,Mackenzie,12
+421,August 2015,Manawatu,76
+422,August 2015,Marlborough,101
+423,August 2015,Masterton,95
+424,August 2015,Matamata-Piako,133
+425,August 2015,Napier,301
+426,August 2015,Nelson,153
+427,August 2015,New Plymouth,193
+428,August 2015,Opotiki,43
+429,August 2015,Otorohanga,19
+430,August 2015,Palmerston North,371
+431,August 2015,Porirua,180
+432,August 2015,Queenstown-Lakes,107
+433,August 2015,Rangitikei,34
+434,August 2015,Rotorua,466
+435,August 2015,Ruapehu,53
+436,August 2015,Selwyn,70
+437,August 2015,South Taranaki,68
+438,August 2015,South Waikato,89
+439,August 2015,South Wairarapa,24
+440,August 2015,Southland,61
+441,August 2015,Stratford,18
+442,August 2015,Tararua,57
+443,August 2015,Tasman,78
+444,August 2015,Taupo,176
+445,August 2015,Tauranga,380
+446,August 2015,Thames-Coromandel,59
+447,August 2015,Timaru,79
+448,August 2015,Upper Hutt,132
+449,August 2015,Waikato,236
+450,August 2015,Waimakariri,111
+451,August 2015,Waimate,14
+452,August 2015,Waipa,118
+453,August 2015,Wairoa,41
+454,August 2015,Waitaki,49
+455,August 2015,Waitomo,18
+456,August 2015,Wanganui,165
+457,August 2015,Wellington,764
+458,August 2015,Western Bay of Plenty,102
+459,August 2015,Westland,14
+460,August 2015,Whakatane,117
+461,August 2015,Whangarei,461
+462,August 2016,Ashburton,91
+463,August 2016,Auckland,7215
+464,August 2016,Buller,35
+465,August 2016,Carterton,17
+466,August 2016,Central Hawke's Bay,41
+467,August 2016,Central Otago,16
+468,August 2016,Christchurch,1784
+469,August 2016,Clutha,41
+470,August 2016,Dunedin,278
+471,August 2016,Far North,272
+472,August 2016,Gisborne,197
+473,August 2016,Gore,26
+474,August 2016,Grey,37
+475,August 2016,Hamilton,924
+476,August 2016,Hastings,483
+477,August 2016,Hauraki,46
+478,August 2016,Horowhenua,128
+479,August 2016,Hurunui,17
+480,August 2016,Invercargill,165
+481,August 2016,Kaikoura,2
+482,August 2016,Kaipara,67
+483,August 2016,Kapiti Coast,177
+484,August 2016,Kawerau,25
+485,August 2016,Lower Hutt,494
+486,August 2016,Mackenzie,4
+487,August 2016,Manawatu,69
+488,August 2016,Marlborough,97
+489,August 2016,Masterton,119
+490,August 2016,Matamata-Piako,118
+491,August 2016,Napier,428
+492,August 2016,Nelson,213
+493,August 2016,New Plymouth,251
+494,August 2016,Opotiki,31
+495,August 2016,Otorohanga,8
+496,August 2016,Palmerston North,531
+497,August 2016,Porirua,206
+498,August 2016,Queenstown-Lakes,72
+499,August 2016,Rangitikei,41
+500,August 2016,Rotorua,567
+501,August 2016,Ruapehu,47
+502,August 2016,Selwyn,74
+503,August 2016,South Taranaki,79
+504,August 2016,South Waikato,100
+505,August 2016,South Wairarapa,27
+506,August 2016,Southland,62
+507,August 2016,Stratford,21
+508,August 2016,Tararua,49
+509,August 2016,Tasman,78
+510,August 2016,Taupo,210
+511,August 2016,Tauranga,524
+512,August 2016,Thames-Coromandel,118
+513,August 2016,Timaru,80
+514,August 2016,Upper Hutt,136
+515,August 2016,Waikato,212
+516,August 2016,Waimakariri,106
+517,August 2016,Waimate,6
+518,August 2016,Waipa,160
+519,August 2016,Wairoa,35
+520,August 2016,Waitaki,47
+521,August 2016,Waitomo,40
+522,August 2016,Wanganui,167
+523,August 2016,Wellington,713
+524,August 2016,Western Bay of Plenty,88
+525,August 2016,Westland,22
+526,August 2016,Whakatane,171
+527,August 2016,Whangarei,387
+528,August 2017,Ashburton,90
+529,August 2017,Auckland,6514
+530,August 2017,Buller,40
+531,August 2017,Carterton,10
+532,August 2017,Central Hawke's Bay,29
+533,August 2017,Central Otago,17
+534,August 2017,Christchurch,1823
+535,August 2017,Clutha,26
+536,August 2017,Dunedin,274
+537,August 2017,Far North,313
+538,August 2017,Gisborne,250
+539,August 2017,Gore,57
+540,August 2017,Grey,37
+541,August 2017,Hamilton,947
+542,August 2017,Hastings,554
+543,August 2017,Hauraki,77
+544,August 2017,Horowhenua,157
+545,August 2017,Hurunui,28
+546,August 2017,Invercargill,142
+547,August 2017,Kaikoura,6
+548,August 2017,Kaipara,57
+549,August 2017,Kapiti Coast,182
+550,August 2017,Kawerau,27
+551,August 2017,Lower Hutt,530
+552,August 2017,Mackenzie,8
+553,August 2017,Manawatu,80
+554,August 2017,Marlborough,92
+555,August 2017,Masterton,137
+556,August 2017,Matamata-Piako,120
+557,August 2017,Napier,379
+558,August 2017,Nelson,126
+559,August 2017,New Plymouth,291
+560,August 2017,Opotiki,43
+561,August 2017,Otorohanga,28
+562,August 2017,Palmerston North,644
+563,August 2017,Porirua,273
+564,August 2017,Queenstown-Lakes,106
+565,August 2017,Rangitikei,42
+566,August 2017,Rotorua,431
+567,August 2017,Ruapehu,58
+568,August 2017,Selwyn,102
+569,August 2017,South Taranaki,82
+570,August 2017,South Waikato,115
+571,August 2017,South Wairarapa,25
+572,August 2017,Southland,35
+573,August 2017,Stratford,28
+574,August 2017,Tararua,69
+575,August 2017,Tasman,83
+576,August 2017,Taupo,171
+577,August 2017,Tauranga,570
+578,August 2017,Thames-Coromandel,95
+579,August 2017,Timaru,102
+580,August 2017,Upper Hutt,142
+581,August 2017,Waikato,251
+582,August 2017,Waimakariri,100
+583,August 2017,Waimate,14
+584,August 2017,Waipa,160
+585,August 2017,Wairoa,39
+586,August 2017,Waitaki,41
+587,August 2017,Waitomo,48
+588,August 2017,Wanganui,206
+589,August 2017,Wellington,679
+590,August 2017,Western Bay of Plenty,105
+591,August 2017,Westland,28
+592,August 2017,Whakatane,197
+593,August 2017,Whangarei,425
+594,August 2018,Ashburton,86
+595,August 2018,Auckland,6208
+596,August 2018,Buller,38
+597,August 2018,Carterton,14
+598,August 2018,Central Hawke's Bay,21
+599,August 2018,Central Otago,24
+600,August 2018,Christchurch,1935
+601,August 2018,Clutha,30
+602,August 2018,Dunedin,251
+603,August 2018,Far North,230
+604,August 2018,Gisborne,180
+605,August 2018,Gore,23
+606,August 2018,Grey,39
+607,August 2018,Hamilton,962
+608,August 2018,Hastings,378
+609,August 2018,Hauraki,80
+610,August 2018,Horowhenua,131
+611,August 2018,Hurunui,46
+612,August 2018,Invercargill,159
+613,August 2018,Kaikoura,6
+614,August 2018,Kaipara,48
+615,August 2018,Kapiti Coast,178
+616,August 2018,Kawerau,30
+617,August 2018,Lower Hutt,421
+618,August 2018,Mackenzie,10
+619,August 2018,Manawatu,88
+620,August 2018,Marlborough,119
+621,August 2018,Masterton,78
+622,August 2018,Matamata-Piako,99
+623,August 2018,Napier,402
+624,August 2018,Nelson,122
+625,August 2018,New Plymouth,244
+626,August 2018,Opotiki,47
+627,August 2018,Otorohanga,22
+628,August 2018,Palmerston North,454
+629,August 2018,Porirua,196
+630,August 2018,Queenstown-Lakes,107
+631,August 2018,Rangitikei,45
+632,August 2018,Rotorua,405
+633,August 2018,Ruapehu,63
+634,August 2018,Selwyn,64
+635,August 2018,South Taranaki,63
+636,August 2018,South Waikato,99
+637,August 2018,South Wairarapa,37
+638,August 2018,Southland,51
+639,August 2018,Stratford,31
+640,August 2018,Tararua,46
+641,August 2018,Tasman,88
+642,August 2018,Taupo,146
+643,August 2018,Tauranga,499
+644,August 2018,Thames-Coromandel,96
+645,August 2018,Timaru,158
+646,August 2018,Upper Hutt,118
+647,August 2018,Waikato,238
+648,August 2018,Waimakariri,174
+649,August 2018,Waimate,20
+650,August 2018,Waipa,164
+651,August 2018,Wairoa,30
+652,August 2018,Waitaki,44
+653,August 2018,Waitomo,40
+654,August 2018,Wanganui,198
+655,August 2018,Wellington,567
+656,August 2018,Western Bay of Plenty,142
+657,August 2018,Westland,14
+658,August 2018,Whakatane,185
+659,August 2018,Whangarei,397
+660,August 2019,Ashburton,54
+661,August 2019,Auckland,6668
+662,August 2019,Buller,39
+663,August 2019,Carterton,18
+664,August 2019,Central Hawke's Bay,44
+665,August 2019,Central Otago,39
+666,August 2019,Christchurch,1902
+667,August 2019,Clutha,29
+668,August 2019,Dunedin,359
+669,August 2019,Far North,324
+670,August 2019,Gisborne,206
+671,August 2019,Gore,21
+672,August 2019,Grey,55
+673,August 2019,Hamilton,1123
+674,August 2019,Hastings,430
+675,August 2019,Hauraki,79
+676,August 2019,Horowhenua,207
+677,August 2019,Hurunui,34
+678,August 2019,Invercargill,155
+679,August 2019,Kaikoura,11
+680,August 2019,Kaipara,57
+681,August 2019,Kapiti Coast,180
+682,August 2019,Kawerau,43
+683,August 2019,Lower Hutt,543
+684,August 2019,Mackenzie,9
+685,August 2019,Manawatu,89
+686,August 2019,Marlborough,131
+687,August 2019,Masterton,126
+688,August 2019,Matamata-Piako,105
+689,August 2019,Napier,407
+690,August 2019,Nelson,131
+691,August 2019,New Plymouth,299
+692,August 2019,Opotiki,56
+693,August 2019,Otorohanga,25
+694,August 2019,Palmerston North,698
+695,August 2019,Porirua,194
+696,August 2019,Queenstown-Lakes,125
+697,August 2019,Rangitikei,32
+698,August 2019,Rotorua,473
+699,August 2019,Ruapehu,57
+700,August 2019,Selwyn,104
+701,August 2019,South Taranaki,76
+702,August 2019,South Waikato,114
+703,August 2019,South Wairarapa,26
+704,August 2019,Southland,28
+705,August 2019,Stratford,41
+706,August 2019,Tararua,56
+707,August 2019,Tasman,113
+708,August 2019,Taupo,213
+709,August 2019,Tauranga,574
+710,August 2019,Thames-Coromandel,115
+711,August 2019,Timaru,148
+712,August 2019,Upper Hutt,133
+713,August 2019,Waikato,394
+714,August 2019,Waimakariri,169
+715,August 2019,Waimate,12
+716,August 2019,Waipa,141
+717,August 2019,Wairoa,20
+718,August 2019,Waitaki,54
+719,August 2019,Waitomo,38
+720,August 2019,Wanganui,210
+721,August 2019,Wellington,819
+722,August 2019,Western Bay of Plenty,165
+723,August 2019,Westland,23
+724,August 2019,Whakatane,201
+725,August 2019,Whangarei,447
+726,December 2014,Ashburton,90
+727,December 2014,Auckland,6270
+728,December 2014,Buller,29
+729,December 2014,Carterton,30
+730,December 2014,Central Hawke's Bay,31
+731,December 2014,Central Otago,37
+732,December 2014,Christchurch,1634
+733,December 2014,Clutha,35
+734,December 2014,Dunedin,294
+735,December 2014,Far North,335
+736,December 2014,Gisborne,261
+737,December 2014,Gore,33
+738,December 2014,Grey,26
+739,December 2014,Hamilton,726
+740,December 2014,Hastings,343
+741,December 2014,Hauraki,59
+742,December 2014,Horowhenua,138
+743,December 2014,Hurunui,25
+744,December 2014,Invercargill,147
+745,December 2014,Kaikoura,18
+746,December 2014,Kaipara,58
+747,December 2014,Kapiti Coast,127
+748,December 2014,Kawerau,25
+749,December 2014,Lower Hutt,436
+750,December 2014,Mackenzie,3
+751,December 2014,Manawatu,62
+752,December 2014,Marlborough,117
+753,December 2014,Masterton,116
+754,December 2014,Matamata-Piako,117
+755,December 2014,Napier,272
+756,December 2014,Nelson,198
+757,December 2014,New Plymouth,187
+758,December 2014,Opotiki,39
+759,December 2014,Otorohanga,9
+760,December 2014,Palmerston North,416
+761,December 2014,Porirua,261
+762,December 2014,Queenstown-Lakes,81
+763,December 2014,Rangitikei,31
+764,December 2014,Rotorua,405
+765,December 2014,Ruapehu,45
+766,December 2014,Selwyn,58
+767,December 2014,South Taranaki,66
+768,December 2014,South Waikato,70
+769,December 2014,South Wairarapa,37
+770,December 2014,Southland,53
+771,December 2014,Stratford,17
+772,December 2014,Tararua,51
+773,December 2014,Tasman,102
+774,December 2014,Taupo,173
+775,December 2014,Tauranga,444
+776,December 2014,Thames-Coromandel,97
+777,December 2014,Timaru,127
+778,December 2014,Upper Hutt,101
+779,December 2014,Waikato,203
+780,December 2014,Waimakariri,87
+781,December 2014,Waimate,16
+782,December 2014,Waipa,140
+783,December 2014,Wairoa,32
+784,December 2014,Waitaki,34
+785,December 2014,Waitomo,35
+786,December 2014,Wanganui,198
+787,December 2014,Wellington,660
+788,December 2014,Western Bay of Plenty,88
+789,December 2014,Westland,28
+790,December 2014,Whakatane,128
+791,December 2014,Whangarei,346
+792,December 2015,Ashburton,67
+793,December 2015,Auckland,6554
+794,December 2015,Buller,18
+795,December 2015,Carterton,29
+796,December 2015,Central Hawke's Bay,38
+797,December 2015,Central Otago,32
+798,December 2015,Christchurch,1912
+799,December 2015,Clutha,30
+800,December 2015,Dunedin,307
+801,December 2015,Far North,301
+802,December 2015,Gisborne,221
+803,December 2015,Gore,40
+804,December 2015,Grey,44
+805,December 2015,Hamilton,738
+806,December 2015,Hastings,426
+807,December 2015,Hauraki,70
+808,December 2015,Horowhenua,101
+809,December 2015,Hurunui,29
+810,December 2015,Invercargill,152
+811,December 2015,Kaikoura,19
+812,December 2015,Kaipara,76
+813,December 2015,Kapiti Coast,145
+814,December 2015,Kawerau,27
+815,December 2015,Lower Hutt,387
+816,December 2015,Mackenzie,10
+817,December 2015,Manawatu,53
+818,December 2015,Marlborough,130
+819,December 2015,Masterton,84
+820,December 2015,Matamata-Piako,151
+821,December 2015,Napier,296
+822,December 2015,Nelson,232
+823,December 2015,New Plymouth,177
+824,December 2015,Opotiki,51
+825,December 2015,Otorohanga,27
+826,December 2015,Palmerston North,427
+827,December 2015,Porirua,205
+828,December 2015,Queenstown-Lakes,96
+829,December 2015,Rangitikei,32
+830,December 2015,Rotorua,548
+831,December 2015,Ruapehu,42
+832,December 2015,Selwyn,109
+833,December 2015,South Taranaki,76
+834,December 2015,South Waikato,104
+835,December 2015,South Wairarapa,29
+836,December 2015,Southland,72
+837,December 2015,Stratford,18
+838,December 2015,Tararua,73
+839,December 2015,Tasman,156
+840,December 2015,Taupo,253
+841,December 2015,Tauranga,522
+842,December 2015,Thames-Coromandel,115
+843,December 2015,Timaru,107
+844,December 2015,Upper Hutt,147
+845,December 2015,Waikato,245
+846,December 2015,Waimakariri,129
+847,December 2015,Waimate,20
+848,December 2015,Waipa,117
+849,December 2015,Wairoa,20
+850,December 2015,Waitaki,59
+851,December 2015,Waitomo,18
+852,December 2015,Wanganui,201
+853,December 2015,Wellington,585
+854,December 2015,Western Bay of Plenty,113
+855,December 2015,Westland,23
+856,December 2015,Whakatane,156
+857,December 2015,Whangarei,369
+858,December 2016,Ashburton,95
+859,December 2016,Auckland,6849
+860,December 2016,Buller,36
+861,December 2016,Carterton,41
+862,December 2016,Central Hawke's Bay,45
+863,December 2016,Central Otago,29
+864,December 2016,Christchurch,1625
+865,December 2016,Clutha,34
+866,December 2016,Dunedin,284
+867,December 2016,Far North,314
+868,December 2016,Gisborne,315
+869,December 2016,Gore,27
+870,December 2016,Grey,31
+871,December 2016,Hamilton,911
+872,December 2016,Hastings,524
+873,December 2016,Hauraki,91
+874,December 2016,Horowhenua,109
+875,December 2016,Hurunui,27
+876,December 2016,Invercargill,144
+877,December 2016,Kaikoura,12
+878,December 2016,Kaipara,74
+879,December 2016,Kapiti Coast,167
+880,December 2016,Kawerau,49
+881,December 2016,Lower Hutt,368
+882,December 2016,Mackenzie,11
+883,December 2016,Manawatu,69
+884,December 2016,Marlborough,113
+885,December 2016,Masterton,149
+886,December 2016,Matamata-Piako,131
+887,December 2016,Napier,382
+888,December 2016,Nelson,201
+889,December 2016,New Plymouth,227
+890,December 2016,Opotiki,38
+891,December 2016,Otorohanga,16
+892,December 2016,Palmerston North,571
+893,December 2016,Porirua,216
+894,December 2016,Queenstown-Lakes,90
+895,December 2016,Rangitikei,36
+896,December 2016,Rotorua,443
+897,December 2016,Ruapehu,33
+898,December 2016,Selwyn,62
+899,December 2016,South Taranaki,76
+900,December 2016,South Waikato,113
+901,December 2016,South Wairarapa,42
+902,December 2016,Southland,46
+903,December 2016,Stratford,25
+904,December 2016,Tararua,76
+905,December 2016,Tasman,131
+906,December 2016,Taupo,208
+907,December 2016,Tauranga,551
+908,December 2016,Thames-Coromandel,162
+909,December 2016,Timaru,106
+910,December 2016,Upper Hutt,186
+911,December 2016,Waikato,229
+912,December 2016,Waimakariri,103
+913,December 2016,Waimate,15
+914,December 2016,Waipa,114
+915,December 2016,Wairoa,36
+916,December 2016,Waitaki,58
+917,December 2016,Waitomo,35
+918,December 2016,Wanganui,166
+919,December 2016,Wellington,619
+920,December 2016,Western Bay of Plenty,136
+921,December 2016,Westland,41
+922,December 2016,Whakatane,152
+923,December 2016,Whangarei,386
+924,December 2017,Ashburton,70
+925,December 2017,Auckland,6314
+926,December 2017,Buller,46
+927,December 2017,Carterton,18
+928,December 2017,Central Hawke's Bay,32
+929,December 2017,Central Otago,35
+930,December 2017,Christchurch,1577
+931,December 2017,Clutha,52
+932,December 2017,Dunedin,284
+933,December 2017,Far North,337
+934,December 2017,Gisborne,239
+935,December 2017,Gore,23
+936,December 2017,Grey,32
+937,December 2017,Hamilton,981
+938,December 2017,Hastings,429
+939,December 2017,Hauraki,87
+940,December 2017,Horowhenua,139
+941,December 2017,Hurunui,26
+942,December 2017,Invercargill,147
+943,December 2017,Kaikoura,19
+944,December 2017,Kaipara,81
+945,December 2017,Kapiti Coast,202
+946,December 2017,Kawerau,28
+947,December 2017,Lower Hutt,418
+948,December 2017,Mackenzie,11
+949,December 2017,Manawatu,92
+950,December 2017,Marlborough,105
+951,December 2017,Masterton,110
+952,December 2017,Matamata-Piako,145
+953,December 2017,Napier,334
+954,December 2017,Nelson,190
+955,December 2017,New Plymouth,240
+956,December 2017,Opotiki,52
+957,December 2017,Otorohanga,24
+958,December 2017,Palmerston North,481
+959,December 2017,Porirua,178
+960,December 2017,Queenstown-Lakes,82
+961,December 2017,Rangitikei,35
+962,December 2017,Rotorua,434
+963,December 2017,Ruapehu,44
+964,December 2017,Selwyn,75
+965,December 2017,South Taranaki,81
+966,December 2017,South Waikato,84
+967,December 2017,South Wairarapa,28
+968,December 2017,Southland,39
+969,December 2017,Stratford,36
+970,December 2017,Tararua,87
+971,December 2017,Tasman,91
+972,December 2017,Taupo,210
+973,December 2017,Tauranga,575
+974,December 2017,Thames-Coromandel,129
+975,December 2017,Timaru,112
+976,December 2017,Upper Hutt,105
+977,December 2017,Waikato,282
+978,December 2017,Waimakariri,152
+979,December 2017,Waimate,12
+980,December 2017,Waipa,126
+981,December 2017,Wairoa,42
+982,December 2017,Waitaki,31
+983,December 2017,Waitomo,40
+984,December 2017,Wanganui,212
+985,December 2017,Wellington,581
+986,December 2017,Western Bay of Plenty,118
+987,December 2017,Westland,26
+988,December 2017,Whakatane,162
+989,December 2017,Whangarei,447
+990,December 2018,Ashburton,100
+991,December 2018,Auckland,6160
+992,December 2018,Buller,49
+993,December 2018,Carterton,13
+994,December 2018,Central Hawke's Bay,33
+995,December 2018,Central Otago,42
+996,December 2018,Christchurch,2174
+997,December 2018,Clutha,43
+998,December 2018,Dunedin,286
+999,December 2018,Far North,298
+1000,December 2018,Gisborne,251
+1001,December 2018,Gore,20
+1002,December 2018,Grey,36
+1003,December 2018,Hamilton,768
+1004,December 2018,Hastings,294
+1005,December 2018,Hauraki,93
+1006,December 2018,Horowhenua,166
+1007,December 2018,Hurunui,36
+1008,December 2018,Invercargill,163
+1009,December 2018,Kaikoura,13
+1010,December 2018,Kaipara,74
+1011,December 2018,Kapiti Coast,163
+1012,December 2018,Kawerau,33
+1013,December 2018,Lower Hutt,434
+1014,December 2018,Mackenzie,9
+1015,December 2018,Manawatu,97
+1016,December 2018,Marlborough,145
+1017,December 2018,Masterton,86
+1018,December 2018,Matamata-Piako,126
+1019,December 2018,Napier,364
+1020,December 2018,Nelson,153
+1021,December 2018,New Plymouth,264
+1022,December 2018,Opotiki,41
+1023,December 2018,Otorohanga,30
+1024,December 2018,Palmerston North,553
+1025,December 2018,Porirua,205
+1026,December 2018,Queenstown-Lakes,110
+1027,December 2018,Rangitikei,37
+1028,December 2018,Rotorua,414
+1029,December 2018,Ruapehu,55
+1030,December 2018,Selwyn,97
+1031,December 2018,South Taranaki,107
+1032,December 2018,South Waikato,85
+1033,December 2018,South Wairarapa,9
+1034,December 2018,Southland,51
+1035,December 2018,Stratford,45
+1036,December 2018,Tararua,48
+1037,December 2018,Tasman,125
+1038,December 2018,Taupo,244
+1039,December 2018,Tauranga,539
+1040,December 2018,Thames-Coromandel,137
+1041,December 2018,Timaru,143
+1042,December 2018,Upper Hutt,123
+1043,December 2018,Waikato,253
+1044,December 2018,Waimakariri,147
+1045,December 2018,Waimate,15
+1046,December 2018,Waipa,143
+1047,December 2018,Wairoa,46
+1048,December 2018,Waitaki,60
+1049,December 2018,Waitomo,48
+1050,December 2018,Wanganui,237
+1051,December 2018,Wellington,626
+1052,December 2018,Western Bay of Plenty,176
+1053,December 2018,Westland,23
+1054,December 2018,Whakatane,156
+1055,December 2018,Whangarei,315
+1056,December 2019,Ashburton,84
+1057,December 2019,Auckland,7470
+1058,December 2019,Buller,43
+1059,December 2019,Carterton,16
+1060,December 2019,Central Hawke's Bay,41
+1061,December 2019,Central Otago,40
+1062,December 2019,Christchurch,2342
+1063,December 2019,Clutha,35
+1064,December 2019,Dunedin,294
+1065,December 2019,Far North,388
+1066,December 2019,Gisborne,310
+1067,December 2019,Gore,22
+1068,December 2019,Grey,59
+1069,December 2019,Hamilton,1218
+1070,December 2019,Hastings,495
+1071,December 2019,Hauraki,114
+1072,December 2019,Horowhenua,171
+1073,December 2019,Hurunui,34
+1074,December 2019,Invercargill,136
+1075,December 2019,Kaikoura,14
+1076,December 2019,Kaipara,65
+1077,December 2019,Kapiti Coast,208
+1078,December 2019,Kawerau,53
+1079,December 2019,Lower Hutt,572
+1080,December 2019,Mackenzie,7
+1081,December 2019,Manawatu,127
+1082,December 2019,Marlborough,184
+1083,December 2019,Masterton,104
+1084,December 2019,Matamata-Piako,194
+1085,December 2019,Napier,501
+1086,December 2019,Nelson,237
+1087,December 2019,New Plymouth,315
+1088,December 2019,Opotiki,51
+1089,December 2019,Otorohanga,31
+1090,December 2019,Palmerston North,662
+1091,December 2019,Porirua,257
+1092,December 2019,Queenstown-Lakes,116
+1093,December 2019,Rangitikei,48
+1094,December 2019,Rotorua,629
+1095,December 2019,Ruapehu,64
+1096,December 2019,Selwyn,115
+1097,December 2019,South Taranaki,69
+1098,December 2019,South Waikato,127
+1099,December 2019,South Wairarapa,21
+1100,December 2019,Southland,44
+1101,December 2019,Stratford,31
+1102,December 2019,Tararua,49
+1103,December 2019,Tasman,140
+1104,December 2019,Taupo,264
+1105,December 2019,Tauranga,773
+1106,December 2019,Thames-Coromandel,163
+1107,December 2019,Timaru,163
+1108,December 2019,Upper Hutt,118
+1109,December 2019,Waikato,327
+1110,December 2019,Waimakariri,157
+1111,December 2019,Waimate,22
+1112,December 2019,Waipa,178
+1113,December 2019,Wairoa,55
+1114,December 2019,Waitaki,86
+1115,December 2019,Waitomo,48
+1116,December 2019,Wanganui,220
+1117,December 2019,Wellington,929
+1118,December 2019,Western Bay of Plenty,204
+1119,December 2019,Westland,24
+1120,December 2019,Whakatane,202
+1121,December 2019,Whangarei,444
+1122,February 2015,Ashburton,76
+1123,February 2015,Auckland,6353
+1124,February 2015,Buller,23
+1125,February 2015,Carterton,17
+1126,February 2015,Central Hawke's Bay,28
+1127,February 2015,Central Otago,29
+1128,February 2015,Christchurch,1492
+1129,February 2015,Clutha,33
+1130,February 2015,Dunedin,269
+1131,February 2015,Far North,275
+1132,February 2015,Gisborne,190
+1133,February 2015,Gore,17
+1134,February 2015,Grey,33
+1135,February 2015,Hamilton,688
+1136,February 2015,Hastings,298
+1137,February 2015,Hauraki,54
+1138,February 2015,Horowhenua,107
+1139,February 2015,Hurunui,14
+1140,February 2015,Invercargill,126
+1141,February 2015,Kaikoura,20
+1142,February 2015,Kaipara,35
+1143,February 2015,Kapiti Coast,167
+1144,February 2015,Kawerau,30
+1145,February 2015,Lower Hutt,426
+1146,February 2015,Mackenzie,11
+1147,February 2015,Manawatu,58
+1148,February 2015,Marlborough,83
+1149,February 2015,Masterton,92
+1150,February 2015,Matamata-Piako,119
+1151,February 2015,Napier,285
+1152,February 2015,Nelson,171
+1153,February 2015,New Plymouth,166
+1154,February 2015,Opotiki,27
+1155,February 2015,Otorohanga,12
+1156,February 2015,Palmerston North,369
+1157,February 2015,Porirua,231
+1158,February 2015,Queenstown-Lakes,63
+1159,February 2015,Rangitikei,13
+1160,February 2015,Rotorua,347
+1161,February 2015,Ruapehu,38
+1162,February 2015,Selwyn,79
+1163,February 2015,South Taranaki,55
+1164,February 2015,South Waikato,89
+1165,February 2015,South Wairarapa,39
+1166,February 2015,Southland,52
+1167,February 2015,Stratford,17
+1168,February 2015,Tararua,47
+1169,February 2015,Tasman,119
+1170,February 2015,Taupo,177
+1171,February 2015,Tauranga,487
+1172,February 2015,Thames-Coromandel,82
+1173,February 2015,Timaru,98
+1174,February 2015,Upper Hutt,107
+1175,February 2015,Waikato,170
+1176,February 2015,Waimakariri,77
+1177,February 2015,Waimate,11
+1178,February 2015,Waipa,75
+1179,February 2015,Wairoa,28
+1180,February 2015,Waitaki,36
+1181,February 2015,Waitomo,17
+1182,February 2015,Wanganui,150
+1183,February 2015,Wellington,818
+1184,February 2015,Western Bay of Plenty,96
+1185,February 2015,Westland,15
+1186,February 2015,Whakatane,140
+1187,February 2015,Whangarei,350
+1188,February 2016,Ashburton,80
+1189,February 2016,Auckland,6442
+1190,February 2016,Buller,30
+1191,February 2016,Carterton,18
+1192,February 2016,Central Hawke's Bay,42
+1193,February 2016,Central Otago,37
+1194,February 2016,Christchurch,1760
+1195,February 2016,Clutha,41
+1196,February 2016,Dunedin,316
+1197,February 2016,Far North,289
+1198,February 2016,Gisborne,181
+1199,February 2016,Gore,24
+1200,February 2016,Grey,30
+1201,February 2016,Hamilton,723
+1202,February 2016,Hastings,409
+1203,February 2016,Hauraki,59
+1204,February 2016,Horowhenua,124
+1205,February 2016,Hurunui,34
+1206,February 2016,Invercargill,167
+1207,February 2016,Kaikoura,15
+1208,February 2016,Kaipara,64
+1209,February 2016,Kapiti Coast,133
+1210,February 2016,Kawerau,29
+1211,February 2016,Lower Hutt,464
+1212,February 2016,Mackenzie,14
+1213,February 2016,Manawatu,57
+1214,February 2016,Marlborough,118
+1215,February 2016,Masterton,100
+1216,February 2016,Matamata-Piako,132
+1217,February 2016,Napier,376
+1218,February 2016,Nelson,258
+1219,February 2016,New Plymouth,180
+1220,February 2016,Opotiki,39
+1221,February 2016,Otorohanga,15
+1222,February 2016,Palmerston North,474
+1223,February 2016,Porirua,207
+1224,February 2016,Queenstown-Lakes,65
+1225,February 2016,Rangitikei,51
+1226,February 2016,Rotorua,507
+1227,February 2016,Ruapehu,43
+1228,February 2016,Selwyn,76
+1229,February 2016,South Taranaki,80
+1230,February 2016,South Waikato,87
+1231,February 2016,South Wairarapa,40
+1232,February 2016,Southland,63
+1233,February 2016,Stratford,20
+1234,February 2016,Tararua,62
+1235,February 2016,Tasman,186
+1236,February 2016,Taupo,248
+1237,February 2016,Tauranga,435
+1238,February 2016,Thames-Coromandel,100
+1239,February 2016,Timaru,119
+1240,February 2016,Upper Hutt,127
+1241,February 2016,Waikato,223
+1242,February 2016,Waimakariri,118
+1243,February 2016,Waimate,14
+1244,February 2016,Waipa,120
+1245,February 2016,Wairoa,24
+1246,February 2016,Waitaki,33
+1247,February 2016,Waitomo,42
+1248,February 2016,Wanganui,220
+1249,February 2016,Wellington,644
+1250,February 2016,Western Bay of Plenty,108
+1251,February 2016,Westland,21
+1252,February 2016,Whakatane,160
+1253,February 2016,Whangarei,364
+1254,February 2017,Ashburton,59
+1255,February 2017,Auckland,6260
+1256,February 2017,Buller,34
+1257,February 2017,Carterton,18
+1258,February 2017,Central Hawke's Bay,26
+1259,February 2017,Central Otago,40
+1260,February 2017,Christchurch,1571
+1261,February 2017,Clutha,45
+1262,February 2017,Dunedin,295
+1263,February 2017,Far North,306
+1264,February 2017,Gisborne,270
+1265,February 2017,Gore,30
+1266,February 2017,Grey,44
+1267,February 2017,Hamilton,819
+1268,February 2017,Hastings,564
+1269,February 2017,Hauraki,98
+1270,February 2017,Horowhenua,141
+1271,February 2017,Hurunui,24
+1272,February 2017,Invercargill,141
+1273,February 2017,Kaikoura,7
+1274,February 2017,Kaipara,83
+1275,February 2017,Kapiti Coast,163
+1276,February 2017,Kawerau,31
+1277,February 2017,Lower Hutt,448
+1278,February 2017,Mackenzie,8
+1279,February 2017,Manawatu,105
+1280,February 2017,Marlborough,128
+1281,February 2017,Masterton,145
+1282,February 2017,Matamata-Piako,150
+1283,February 2017,Napier,459
+1284,February 2017,Nelson,264
+1285,February 2017,New Plymouth,237
+1286,February 2017,Opotiki,49
+1287,February 2017,Otorohanga,31
+1288,February 2017,Palmerston North,506
+1289,February 2017,Porirua,188
+1290,February 2017,Queenstown-Lakes,58
+1291,February 2017,Rangitikei,40
+1292,February 2017,Rotorua,487
+1293,February 2017,Ruapehu,34
+1294,February 2017,Selwyn,60
+1295,February 2017,South Taranaki,106
+1296,February 2017,South Waikato,76
+1297,February 2017,South Wairarapa,38
+1298,February 2017,Southland,39
+1299,February 2017,Stratford,17
+1300,February 2017,Tararua,57
+1301,February 2017,Tasman,133
+1302,February 2017,Taupo,208
+1303,February 2017,Tauranga,609
+1304,February 2017,Thames-Coromandel,108
+1305,February 2017,Timaru,94
+1306,February 2017,Upper Hutt,119
+1307,February 2017,Waikato,206
+1308,February 2017,Waimakariri,85
+1309,February 2017,Waimate,10
+1310,February 2017,Waipa,132
+1311,February 2017,Wairoa,36
+1312,February 2017,Waitaki,61
+1313,February 2017,Waitomo,36
+1314,February 2017,Wanganui,175
+1315,February 2017,Wellington,792
+1316,February 2017,Western Bay of Plenty,93
+1317,February 2017,Westland,26
+1318,February 2017,Whakatane,135
+1319,February 2017,Whangarei,361
+1320,February 2018,Ashburton,120
+1321,February 2018,Auckland,6043
+1322,February 2018,Buller,35
+1323,February 2018,Carterton,16
+1324,February 2018,Central Hawke's Bay,39
+1325,February 2018,Central Otago,31
+1326,February 2018,Christchurch,1604
+1327,February 2018,Clutha,39
+1328,February 2018,Dunedin,260
+1329,February 2018,Far North,389
+1330,February 2018,Gisborne,192
+1331,February 2018,Gore,33
+1332,February 2018,Grey,37
+1333,February 2018,Hamilton,965
+1334,February 2018,Hastings,402
+1335,February 2018,Hauraki,97
+1336,February 2018,Horowhenua,156
+1337,February 2018,Hurunui,20
+1338,February 2018,Invercargill,156
+1339,February 2018,Kaikoura,18
+1340,February 2018,Kaipara,63
+1341,February 2018,Kapiti Coast,153
+1342,February 2018,Kawerau,27
+1343,February 2018,Lower Hutt,419
+1344,February 2018,Mackenzie,7
+1345,February 2018,Manawatu,91
+1346,February 2018,Marlborough,121
+1347,February 2018,Masterton,90
+1348,February 2018,Matamata-Piako,124
+1349,February 2018,Napier,435
+1350,February 2018,Nelson,137
+1351,February 2018,New Plymouth,249
+1352,February 2018,Opotiki,41
+1353,February 2018,Otorohanga,22
+1354,February 2018,Palmerston North,406
+1355,February 2018,Porirua,223
+1356,February 2018,Queenstown-Lakes,75
+1357,February 2018,Rangitikei,26
+1358,February 2018,Rotorua,456
+1359,February 2018,Ruapehu,26
+1360,February 2018,Selwyn,105
+1361,February 2018,South Taranaki,96
+1362,February 2018,South Waikato,98
+1363,February 2018,South Wairarapa,25
+1364,February 2018,Southland,44
+1365,February 2018,Stratford,31
+1366,February 2018,Tararua,49
+1367,February 2018,Tasman,109
+1368,February 2018,Taupo,202
+1369,February 2018,Tauranga,614
+1370,February 2018,Thames-Coromandel,162
+1371,February 2018,Timaru,126
+1372,February 2018,Upper Hutt,132
+1373,February 2018,Waikato,295
+1374,February 2018,Waimakariri,95
+1375,February 2018,Waimate,8
+1376,February 2018,Waipa,137
+1377,February 2018,Wairoa,28
+1378,February 2018,Waitaki,65
+1379,February 2018,Waitomo,34
+1380,February 2018,Wanganui,202
+1381,February 2018,Wellington,589
+1382,February 2018,Western Bay of Plenty,130
+1383,February 2018,Westland,19
+1384,February 2018,Whakatane,149
+1385,February 2018,Whangarei,481
+1386,February 2019,Ashburton,99
+1387,February 2019,Auckland,5754
+1388,February 2019,Buller,31
+1389,February 2019,Carterton,17
+1390,February 2019,Central Hawke's Bay,35
+1391,February 2019,Central Otago,35
+1392,February 2019,Christchurch,2224
+1393,February 2019,Clutha,34
+1394,February 2019,Dunedin,283
+1395,February 2019,Far North,238
+1396,February 2019,Gisborne,177
+1397,February 2019,Gore,47
+1398,February 2019,Grey,42
+1399,February 2019,Hamilton,785
+1400,February 2019,Hastings,312
+1401,February 2019,Hauraki,98
+1402,February 2019,Horowhenua,131
+1403,February 2019,Hurunui,25
+1404,February 2019,Invercargill,161
+1405,February 2019,Kaikoura,17
+1406,February 2019,Kaipara,53
+1407,February 2019,Kapiti Coast,183
+1408,February 2019,Kawerau,19
+1409,February 2019,Lower Hutt,498
+1410,February 2019,Mackenzie,8
+1411,February 2019,Manawatu,75
+1412,February 2019,Marlborough,143
+1413,February 2019,Masterton,95
+1414,February 2019,Matamata-Piako,117
+1415,February 2019,Napier,332
+1416,February 2019,Nelson,108
+1417,February 2019,New Plymouth,220
+1418,February 2019,Opotiki,55
+1419,February 2019,Otorohanga,20
+1420,February 2019,Palmerston North,487
+1421,February 2019,Porirua,201
+1422,February 2019,Queenstown-Lakes,103
+1423,February 2019,Rangitikei,34
+1424,February 2019,Rotorua,467
+1425,February 2019,Ruapehu,45
+1426,February 2019,Selwyn,118
+1427,February 2019,South Taranaki,69
+1428,February 2019,South Waikato,120
+1429,February 2019,South Wairarapa,21
+1430,February 2019,Southland,42
+1431,February 2019,Stratford,37
+1432,February 2019,Tararua,40
+1433,February 2019,Tasman,101
+1434,February 2019,Taupo,218
+1435,February 2019,Tauranga,607
+1436,February 2019,Thames-Coromandel,117
+1437,February 2019,Timaru,146
+1438,February 2019,Upper Hutt,104
+1439,February 2019,Waikato,234
+1440,February 2019,Waimakariri,146
+1441,February 2019,Waimate,13
+1442,February 2019,Waipa,99
+1443,February 2019,Wairoa,46
+1444,February 2019,Waitaki,47
+1445,February 2019,Waitomo,22
+1446,February 2019,Wanganui,187
+1447,February 2019,Wellington,798
+1448,February 2019,Western Bay of Plenty,161
+1449,February 2019,Westland,22
+1450,February 2019,Whakatane,174
+1451,February 2019,Whangarei,285
+1452,February 2020,Ashburton,110
+1453,February 2020,Auckland,7427
+1454,February 2020,Buller,27
+1455,February 2020,Carterton,15
+1456,February 2020,Central Hawke's Bay,37
+1457,February 2020,Central Otago,30
+1458,February 2020,Christchurch,2373
+1459,February 2020,Clutha,60
+1460,February 2020,Dunedin,267
+1461,February 2020,Far North,499
+1462,February 2020,Gisborne,233
+1463,February 2020,Gore,22
+1464,February 2020,Grey,60
+1465,February 2020,Hamilton,1274
+1466,February 2020,Hastings,516
+1467,February 2020,Hauraki,94
+1468,February 2020,Horowhenua,187
+1469,February 2020,Hurunui,21
+1470,February 2020,Invercargill,180
+1471,February 2020,Kaikoura,23
+1472,February 2020,Kaipara,99
+1473,February 2020,Kapiti Coast,214
+1474,February 2020,Kawerau,41
+1475,February 2020,Lower Hutt,521
+1476,February 2020,Mackenzie,6
+1477,February 2020,Manawatu,136
+1478,February 2020,Marlborough,227
+1479,February 2020,Masterton,100
+1480,February 2020,Matamata-Piako,138
+1481,February 2020,Napier,568
+1482,February 2020,Nelson,202
+1483,February 2020,New Plymouth,309
+1484,February 2020,Opotiki,42
+1485,February 2020,Otorohanga,43
+1486,February 2020,Palmerston North,623
+1487,February 2020,Porirua,198
+1488,February 2020,Queenstown-Lakes,92
+1489,February 2020,Rangitikei,46
+1490,February 2020,Rotorua,670
+1491,February 2020,Ruapehu,66
+1492,February 2020,Selwyn,152
+1493,February 2020,South Taranaki,79
+1494,February 2020,South Waikato,140
+1495,February 2020,South Wairarapa,20
+1496,February 2020,Southland,57
+1497,February 2020,Stratford,21
+1498,February 2020,Tararua,75
+1499,February 2020,Tasman,120
+1500,February 2020,Taupo,301
+1501,February 2020,Tauranga,800
+1502,February 2020,Thames-Coromandel,117
+1503,February 2020,Timaru,133
+1504,February 2020,Upper Hutt,162
+1505,February 2020,Waikato,342
+1506,February 2020,Waimakariri,135
+1507,February 2020,Waimate,14
+1508,February 2020,Waipa,191
+1509,February 2020,Wairoa,38
+1510,February 2020,Waitaki,70
+1511,February 2020,Waitomo,53
+1512,February 2020,Wanganui,215
+1513,February 2020,Wellington,1010
+1514,February 2020,Western Bay of Plenty,169
+1515,February 2020,Westland,23
+1516,February 2020,Whakatane,193
+1517,February 2020,Whangarei,533
+1518,January 2015,Ashburton,92
+1519,January 2015,Auckland,6574
+1520,January 2015,Buller,31
+1521,January 2015,Carterton,21
+1522,January 2015,Central Hawke's Bay,26
+1523,January 2015,Central Otago,37
+1524,January 2015,Christchurch,1598
+1525,January 2015,Clutha,23
+1526,January 2015,Dunedin,291
+1527,January 2015,Far North,327
+1528,January 2015,Gisborne,225
+1529,January 2015,Gore,30
+1530,January 2015,Grey,33
+1531,January 2015,Hamilton,658
+1532,January 2015,Hastings,440
+1533,January 2015,Hauraki,83
+1534,January 2015,Horowhenua,136
+1535,January 2015,Hurunui,32
+1536,January 2015,Invercargill,152
+1537,January 2015,Kaikoura,20
+1538,January 2015,Kaipara,68
+1539,January 2015,Kapiti Coast,132
+1540,January 2015,Kawerau,30
+1541,January 2015,Lower Hutt,437
+1542,January 2015,Mackenzie,2
+1543,January 2015,Manawatu,83
+1544,January 2015,Marlborough,93
+1545,January 2015,Masterton,101
+1546,January 2015,Matamata-Piako,113
+1547,January 2015,Napier,304
+1548,January 2015,Nelson,196
+1549,January 2015,New Plymouth,176
+1550,January 2015,Opotiki,44
+1551,January 2015,Otorohanga,25
+1552,January 2015,Palmerston North,363
+1553,January 2015,Porirua,218
+1554,January 2015,Queenstown-Lakes,94
+1555,January 2015,Rangitikei,42
+1556,January 2015,Rotorua,525
+1557,January 2015,Ruapehu,48
+1558,January 2015,Selwyn,60
+1559,January 2015,South Taranaki,71
+1560,January 2015,South Waikato,89
+1561,January 2015,South Wairarapa,28
+1562,January 2015,Southland,52
+1563,January 2015,Stratford,9
+1564,January 2015,Tararua,74
+1565,January 2015,Tasman,115
+1566,January 2015,Taupo,202
+1567,January 2015,Tauranga,479
+1568,January 2015,Thames-Coromandel,132
+1569,January 2015,Timaru,120
+1570,January 2015,Upper Hutt,174
+1571,January 2015,Waikato,192
+1572,January 2015,Waimakariri,87
+1573,January 2015,Waimate,2
+1574,January 2015,Waipa,110
+1575,January 2015,Wairoa,31
+1576,January 2015,Waitaki,47
+1577,January 2015,Waitomo,25
+1578,January 2015,Wanganui,155
+1579,January 2015,Wellington,646
+1580,January 2015,Western Bay of Plenty,96
+1581,January 2015,Westland,15
+1582,January 2015,Whakatane,179
+1583,January 2015,Whangarei,422
+1584,January 2016,Ashburton,61
+1585,January 2016,Auckland,6692
+1586,January 2016,Buller,26
+1587,January 2016,Carterton,32
+1588,January 2016,Central Hawke's Bay,36
+1589,January 2016,Central Otago,32
+1590,January 2016,Christchurch,1824
+1591,January 2016,Clutha,38
+1592,January 2016,Dunedin,327
+1593,January 2016,Far North,317
+1594,January 2016,Gisborne,256
+1595,January 2016,Gore,24
+1596,January 2016,Grey,31
+1597,January 2016,Hamilton,748
+1598,January 2016,Hastings,348
+1599,January 2016,Hauraki,73
+1600,January 2016,Horowhenua,112
+1601,January 2016,Hurunui,31
+1602,January 2016,Invercargill,172
+1603,January 2016,Kaikoura,11
+1604,January 2016,Kaipara,67
+1605,January 2016,Kapiti Coast,120
+1606,January 2016,Kawerau,26
+1607,January 2016,Lower Hutt,431
+1608,January 2016,Mackenzie,12
+1609,January 2016,Manawatu,76
+1610,January 2016,Marlborough,122
+1611,January 2016,Masterton,84
+1612,January 2016,Matamata-Piako,138
+1613,January 2016,Napier,409
+1614,January 2016,Nelson,195
+1615,January 2016,New Plymouth,188
+1616,January 2016,Opotiki,35
+1617,January 2016,Otorohanga,20
+1618,January 2016,Palmerston North,395
+1619,January 2016,Porirua,213
+1620,January 2016,Queenstown-Lakes,88
+1621,January 2016,Rangitikei,42
+1622,January 2016,Rotorua,516
+1623,January 2016,Ruapehu,41
+1624,January 2016,Selwyn,105
+1625,January 2016,South Taranaki,71
+1626,January 2016,South Waikato,73
+1627,January 2016,South Wairarapa,36
+1628,January 2016,Southland,95
+1629,January 2016,Stratford,14
+1630,January 2016,Tararua,56
+1631,January 2016,Tasman,137
+1632,January 2016,Taupo,243
+1633,January 2016,Tauranga,540
+1634,January 2016,Thames-Coromandel,106
+1635,January 2016,Timaru,136
+1636,January 2016,Upper Hutt,131
+1637,January 2016,Waikato,242
+1638,January 2016,Waimakariri,98
+1639,January 2016,Waimate,14
+1640,January 2016,Waipa,138
+1641,January 2016,Wairoa,25
+1642,January 2016,Waitaki,66
+1643,January 2016,Waitomo,32
+1644,January 2016,Wanganui,188
+1645,January 2016,Wellington,592
+1646,January 2016,Western Bay of Plenty,111
+1647,January 2016,Westland,27
+1648,January 2016,Whakatane,161
+1649,January 2016,Whangarei,423
+1650,January 2017,Ashburton,90
+1651,January 2017,Auckland,7229
+1652,January 2017,Buller,42
+1653,January 2017,Carterton,25
+1654,January 2017,Central Hawke's Bay,39
+1655,January 2017,Central Otago,24
+1656,January 2017,Christchurch,1656
+1657,January 2017,Clutha,36
+1658,January 2017,Dunedin,249
+1659,January 2017,Far North,452
+1660,January 2017,Gisborne,382
+1661,January 2017,Gore,43
+1662,January 2017,Grey,31
+1663,January 2017,Hamilton,911
+1664,January 2017,Hastings,541
+1665,January 2017,Hauraki,95
+1666,January 2017,Horowhenua,111
+1667,January 2017,Hurunui,19
+1668,January 2017,Invercargill,160
+1669,January 2017,Kaikoura,6
+1670,January 2017,Kaipara,92
+1671,January 2017,Kapiti Coast,195
+1672,January 2017,Kawerau,23
+1673,January 2017,Lower Hutt,484
+1674,January 2017,Mackenzie,15
+1675,January 2017,Manawatu,105
+1676,January 2017,Marlborough,154
+1677,January 2017,Masterton,185
+1678,January 2017,Matamata-Piako,196
+1679,January 2017,Napier,446
+1680,January 2017,Nelson,223
+1681,January 2017,New Plymouth,258
+1682,January 2017,Opotiki,43
+1683,January 2017,Otorohanga,27
+1684,January 2017,Palmerston North,563
+1685,January 2017,Porirua,240
+1686,January 2017,Queenstown-Lakes,89
+1687,January 2017,Rangitikei,38
+1688,January 2017,Rotorua,578
+1689,January 2017,Ruapehu,42
+1690,January 2017,Selwyn,72
+1691,January 2017,South Taranaki,87
+1692,January 2017,South Waikato,106
+1693,January 2017,South Wairarapa,51
+1694,January 2017,Southland,68
+1695,January 2017,Stratford,23
+1696,January 2017,Tararua,82
+1697,January 2017,Tasman,138
+1698,January 2017,Taupo,289
+1699,January 2017,Tauranga,603
+1700,January 2017,Thames-Coromandel,220
+1701,January 2017,Timaru,85
+1702,January 2017,Upper Hutt,149
+1703,January 2017,Waikato,298
+1704,January 2017,Waimakariri,97
+1705,January 2017,Waimate,12
+1706,January 2017,Waipa,121
+1707,January 2017,Wairoa,35
+1708,January 2017,Waitaki,59
+1709,January 2017,Waitomo,44
+1710,January 2017,Wanganui,199
+1711,January 2017,Wellington,873
+1712,January 2017,Western Bay of Plenty,166
+1713,January 2017,Westland,23
+1714,January 2017,Whakatane,169
+1715,January 2017,Whangarei,453
+1716,January 2018,Ashburton,135
+1717,January 2018,Auckland,6832
+1718,January 2018,Buller,53
+1719,January 2018,Carterton,14
+1720,January 2018,Central Hawke's Bay,38
+1721,January 2018,Central Otago,36
+1722,January 2018,Christchurch,1739
+1723,January 2018,Clutha,39
+1724,January 2018,Dunedin,294
+1725,January 2018,Far North,483
+1726,January 2018,Gisborne,302
+1727,January 2018,Gore,31
+1728,January 2018,Grey,32
+1729,January 2018,Hamilton,1044
+1730,January 2018,Hastings,443
+1731,January 2018,Hauraki,77
+1732,January 2018,Horowhenua,158
+1733,January 2018,Hurunui,32
+1734,January 2018,Invercargill,150
+1735,January 2018,Kaikoura,16
+1736,January 2018,Kaipara,95
+1737,January 2018,Kapiti Coast,168
+1738,January 2018,Kawerau,28
+1739,January 2018,Lower Hutt,396
+1740,January 2018,Mackenzie,7
+1741,January 2018,Manawatu,87
+1742,January 2018,Marlborough,129
+1743,January 2018,Masterton,111
+1744,January 2018,Matamata-Piako,137
+1745,January 2018,Napier,485
+1746,January 2018,Nelson,173
+1747,January 2018,New Plymouth,249
+1748,January 2018,Opotiki,51
+1749,January 2018,Otorohanga,35
+1750,January 2018,Palmerston North,485
+1751,January 2018,Porirua,219
+1752,January 2018,Queenstown-Lakes,105
+1753,January 2018,Rangitikei,51
+1754,January 2018,Rotorua,473
+1755,January 2018,Ruapehu,38
+1756,January 2018,Selwyn,85
+1757,January 2018,South Taranaki,61
+1758,January 2018,South Waikato,84
+1759,January 2018,South Wairarapa,34
+1760,January 2018,Southland,55
+1761,January 2018,Stratford,30
+1762,January 2018,Tararua,77
+1763,January 2018,Tasman,124
+1764,January 2018,Taupo,238
+1765,January 2018,Tauranga,716
+1766,January 2018,Thames-Coromandel,184
+1767,January 2018,Timaru,127
+1768,January 2018,Upper Hutt,131
+1769,January 2018,Waikato,264
+1770,January 2018,Waimakariri,118
+1771,January 2018,Waimate,11
+1772,January 2018,Waipa,138
+1773,January 2018,Wairoa,41
+1774,January 2018,Waitaki,64
+1775,January 2018,Waitomo,21
+1776,January 2018,Wanganui,218
+1777,January 2018,Wellington,590
+1778,January 2018,Western Bay of Plenty,152
+1779,January 2018,Westland,17
+1780,January 2018,Whakatane,172
+1781,January 2018,Whangarei,524
+1782,January 2019,Ashburton,88
+1783,January 2019,Auckland,6860
+1784,January 2019,Buller,77
+1785,January 2019,Carterton,19
+1786,January 2019,Central Hawke's Bay,30
+1787,January 2019,Central Otago,24
+1788,January 2019,Christchurch,2299
+1789,January 2019,Clutha,33
+1790,January 2019,Dunedin,305
+1791,January 2019,Far North,429
+1792,January 2019,Gisborne,316
+1793,January 2019,Gore,23
+1794,January 2019,Grey,42
+1795,January 2019,Hamilton,940
+1796,January 2019,Hastings,411
+1797,January 2019,Hauraki,149
+1798,January 2019,Horowhenua,142
+1799,January 2019,Hurunui,32
+1800,January 2019,Invercargill,213
+1801,January 2019,Kaikoura,23
+1802,January 2019,Kaipara,79
+1803,January 2019,Kapiti Coast,176
+1804,January 2019,Kawerau,38
+1805,January 2019,Lower Hutt,457
+1806,January 2019,Mackenzie,8
+1807,January 2019,Manawatu,122
+1808,January 2019,Marlborough,123
+1809,January 2019,Masterton,89
+1810,January 2019,Matamata-Piako,127
+1811,January 2019,Napier,428
+1812,January 2019,Nelson,138
+1813,January 2019,New Plymouth,293
+1814,January 2019,Opotiki,51
+1815,January 2019,Otorohanga,35
+1816,January 2019,Palmerston North,462
+1817,January 2019,Porirua,197
+1818,January 2019,Queenstown-Lakes,110
+1819,January 2019,Rangitikei,37
+1820,January 2019,Rotorua,486
+1821,January 2019,Ruapehu,43
+1822,January 2019,Selwyn,78
+1823,January 2019,South Taranaki,75
+1824,January 2019,South Waikato,107
+1825,January 2019,South Wairarapa,28
+1826,January 2019,Southland,56
+1827,January 2019,Stratford,49
+1828,January 2019,Tararua,41
+1829,January 2019,Tasman,96
+1830,January 2019,Taupo,240
+1831,January 2019,Tauranga,710
+1832,January 2019,Thames-Coromandel,176
+1833,January 2019,Timaru,173
+1834,January 2019,Upper Hutt,128
+1835,January 2019,Waikato,333
+1836,January 2019,Waimakariri,153
+1837,January 2019,Waimate,26
+1838,January 2019,Waipa,176
+1839,January 2019,Wairoa,48
+1840,January 2019,Waitaki,70
+1841,January 2019,Waitomo,55
+1842,January 2019,Wanganui,205
+1843,January 2019,Wellington,787
+1844,January 2019,Western Bay of Plenty,198
+1845,January 2019,Westland,26
+1846,January 2019,Whakatane,171
+1847,January 2019,Whangarei,408
+1848,January 2020,Ashburton,84
+1849,January 2020,Auckland,7638
+1850,January 2020,Buller,50
+1851,January 2020,Carterton,16
+1852,January 2020,Central Hawke's Bay,41
+1853,January 2020,Central Otago,46
+1854,January 2020,Christchurch,2385
+1855,January 2020,Clutha,47
+1856,January 2020,Dunedin,241
+1857,January 2020,Far North,554
+1858,January 2020,Gisborne,363
+1859,January 2020,Gore,32
+1860,January 2020,Grey,54
+1861,January 2020,Hamilton,1254
+1862,January 2020,Hastings,553
+1863,January 2020,Hauraki,134
+1864,January 2020,Horowhenua,210
+1865,January 2020,Hurunui,32
+1866,January 2020,Invercargill,158
+1867,January 2020,Kaikoura,30
+1868,January 2020,Kaipara,106
+1869,January 2020,Kapiti Coast,203
+1870,January 2020,Kawerau,49
+1871,January 2020,Lower Hutt,551
+1872,January 2020,Mackenzie,12
+1873,January 2020,Manawatu,110
+1874,January 2020,Marlborough,208
+1875,January 2020,Masterton,112
+1876,January 2020,Matamata-Piako,178
+1877,January 2020,Napier,561
+1878,January 2020,Nelson,244
+1879,January 2020,New Plymouth,336
+1880,January 2020,Opotiki,62
+1881,January 2020,Otorohanga,26
+1882,January 2020,Palmerston North,637
+1883,January 2020,Porirua,236
+1884,January 2020,Queenstown-Lakes,124
+1885,January 2020,Rangitikei,64
+1886,January 2020,Rotorua,627
+1887,January 2020,Ruapehu,47
+1888,January 2020,Selwyn,127
+1889,January 2020,South Taranaki,90
+1890,January 2020,South Waikato,130
+1891,January 2020,South Wairarapa,28
+1892,January 2020,Southland,69
+1893,January 2020,Stratford,30
+1894,January 2020,Tararua,53
+1895,January 2020,Tasman,147
+1896,January 2020,Taupo,323
+1897,January 2020,Tauranga,840
+1898,January 2020,Thames-Coromandel,202
+1899,January 2020,Timaru,127
+1900,January 2020,Upper Hutt,144
+1901,January 2020,Waikato,355
+1902,January 2020,Waimakariri,154
+1903,January 2020,Waimate,25
+1904,January 2020,Waipa,226
+1905,January 2020,Wairoa,51
+1906,January 2020,Waitaki,68
+1907,January 2020,Waitomo,38
+1908,January 2020,Wanganui,261
+1909,January 2020,Wellington,907
+1910,January 2020,Western Bay of Plenty,228
+1911,January 2020,Westland,28
+1912,January 2020,Whakatane,234
+1913,January 2020,Whangarei,487
+1914,July 2014,Ashburton,71
+1915,July 2014,Auckland,5860
+1916,July 2014,Buller,18
+1917,July 2014,Carterton,16
+1918,July 2014,Central Hawke's Bay,20
+1919,July 2014,Central Otago,17
+1920,July 2014,Christchurch,1369
+1921,July 2014,Clutha,41
+1922,July 2014,Dunedin,323
+1923,July 2014,Far North,219
+1924,July 2014,Gisborne,130
+1925,July 2014,Gore,17
+1926,July 2014,Grey,23
+1927,July 2014,Hamilton,816
+1928,July 2014,Hastings,333
+1929,July 2014,Hauraki,48
+1930,July 2014,Horowhenua,160
+1931,July 2014,Hurunui,28
+1932,July 2014,Invercargill,151
+1933,July 2014,Kaikoura,4
+1934,July 2014,Kaipara,53
+1935,July 2014,Kapiti Coast,152
+1936,July 2014,Kawerau,25
+1937,July 2014,Lower Hutt,445
+1938,July 2014,Mackenzie,3
+1939,July 2014,Manawatu,63
+1940,July 2014,Marlborough,125
+1941,July 2014,Masterton,117
+1942,July 2014,Matamata-Piako,146
+1943,July 2014,Napier,193
+1944,July 2014,Nelson,188
+1945,July 2014,New Plymouth,159
+1946,July 2014,Opotiki,38
+1947,July 2014,Otorohanga,21
+1948,July 2014,Palmerston North,448
+1949,July 2014,Porirua,175
+1950,July 2014,Queenstown-Lakes,96
+1951,July 2014,Rangitikei,34
+1952,July 2014,Rotorua,342
+1953,July 2014,Ruapehu,53
+1954,July 2014,Selwyn,65
+1955,July 2014,South Taranaki,76
+1956,July 2014,South Waikato,85
+1957,July 2014,South Wairarapa,15
+1958,July 2014,Southland,47
+1959,July 2014,Stratford,27
+1960,July 2014,Tararua,52
+1961,July 2014,Tasman,103
+1962,July 2014,Taupo,132
+1963,July 2014,Tauranga,356
+1964,July 2014,Thames-Coromandel,78
+1965,July 2014,Timaru,102
+1966,July 2014,Upper Hutt,117
+1967,July 2014,Waikato,164
+1968,July 2014,Waimakariri,75
+1969,July 2014,Waimate,9
+1970,July 2014,Waipa,111
+1971,July 2014,Wairoa,29
+1972,July 2014,Waitaki,50
+1973,July 2014,Waitomo,16
+1974,July 2014,Wanganui,165
+1975,July 2014,Wellington,623
+1976,July 2014,Western Bay of Plenty,70
+1977,July 2014,Westland,6
+1978,July 2014,Whakatane,123
+1979,July 2014,Whangarei,346
+1980,July 2015,Ashburton,46
+1981,July 2015,Auckland,6576
+1982,July 2015,Buller,18
+1983,July 2015,Carterton,19
+1984,July 2015,Central Hawke's Bay,43
+1985,July 2015,Central Otago,22
+1986,July 2015,Christchurch,1779
+1987,July 2015,Clutha,36
+1988,July 2015,Dunedin,273
+1989,July 2015,Far North,222
+1990,July 2015,Gisborne,181
+1991,July 2015,Gore,28
+1992,July 2015,Grey,34
+1993,July 2015,Hamilton,750
+1994,July 2015,Hastings,384
+1995,July 2015,Hauraki,53
+1996,July 2015,Horowhenua,106
+1997,July 2015,Hurunui,23
+1998,July 2015,Invercargill,147
+1999,July 2015,Kaikoura,12
+2000,July 2015,Kaipara,41
+2001,July 2015,Kapiti Coast,131
+2002,July 2015,Kawerau,41
+2003,July 2015,Lower Hutt,470
+2004,July 2015,Mackenzie,4
+2005,July 2015,Manawatu,69
+2006,July 2015,Marlborough,119
+2007,July 2015,Masterton,92
+2008,July 2015,Matamata-Piako,106
+2009,July 2015,Napier,294
+2010,July 2015,Nelson,147
+2011,July 2015,New Plymouth,197
+2012,July 2015,Opotiki,35
+2013,July 2015,Otorohanga,13
+2014,July 2015,Palmerston North,516
+2015,July 2015,Porirua,206
+2016,July 2015,Queenstown-Lakes,100
+2017,July 2015,Rangitikei,51
+2018,July 2015,Rotorua,397
+2019,July 2015,Ruapehu,59
+2020,July 2015,Selwyn,65
+2021,July 2015,South Taranaki,68
+2022,July 2015,South Waikato,87
+2023,July 2015,South Wairarapa,23
+2024,July 2015,Southland,57
+2025,July 2015,Stratford,13
+2026,July 2015,Tararua,87
+2027,July 2015,Tasman,84
+2028,July 2015,Taupo,141
+2029,July 2015,Tauranga,413
+2030,July 2015,Thames-Coromandel,73
+2031,July 2015,Timaru,87
+2032,July 2015,Upper Hutt,144
+2033,July 2015,Waikato,202
+2034,July 2015,Waimakariri,91
+2035,July 2015,Waimate,7
+2036,July 2015,Waipa,80
+2037,July 2015,Wairoa,53
+2038,July 2015,Waitaki,41
+2039,July 2015,Waitomo,25
+2040,July 2015,Wanganui,166
+2041,July 2015,Wellington,772
+2042,July 2015,Western Bay of Plenty,98
+2043,July 2015,Westland,11
+2044,July 2015,Whakatane,170
+2045,July 2015,Whangarei,434
+2046,July 2016,Ashburton,105
+2047,July 2016,Auckland,7082
+2048,July 2016,Buller,17
+2049,July 2016,Carterton,14
+2050,July 2016,Central Hawke's Bay,30
+2051,July 2016,Central Otago,26
+2052,July 2016,Christchurch,1638
+2053,July 2016,Clutha,33
+2054,July 2016,Dunedin,233
+2055,July 2016,Far North,341
+2056,July 2016,Gisborne,204
+2057,July 2016,Gore,26
+2058,July 2016,Grey,29
+2059,July 2016,Hamilton,989
+2060,July 2016,Hastings,440
+2061,July 2016,Hauraki,80
+2062,July 2016,Horowhenua,109
+2063,July 2016,Hurunui,23
+2064,July 2016,Invercargill,122
+2065,July 2016,Kaikoura,6
+2066,July 2016,Kaipara,73
+2067,July 2016,Kapiti Coast,213
+2068,July 2016,Kawerau,28
+2069,July 2016,Lower Hutt,535
+2070,July 2016,Mackenzie,3
+2071,July 2016,Manawatu,77
+2072,July 2016,Marlborough,125
+2073,July 2016,Masterton,98
+2074,July 2016,Matamata-Piako,114
+2075,July 2016,Napier,377
+2076,July 2016,Nelson,176
+2077,July 2016,New Plymouth,173
+2078,July 2016,Opotiki,59
+2079,July 2016,Otorohanga,17
+2080,July 2016,Palmerston North,446
+2081,July 2016,Porirua,207
+2082,July 2016,Queenstown-Lakes,88
+2083,July 2016,Rangitikei,36
+2084,July 2016,Rotorua,468
+2085,July 2016,Ruapehu,44
+2086,July 2016,Selwyn,59
+2087,July 2016,South Taranaki,85
+2088,July 2016,South Waikato,94
+2089,July 2016,South Wairarapa,17
+2090,July 2016,Southland,50
+2091,July 2016,Stratford,18
+2092,July 2016,Tararua,63
+2093,July 2016,Tasman,117
+2094,July 2016,Taupo,218
+2095,July 2016,Tauranga,505
+2096,July 2016,Thames-Coromandel,109
+2097,July 2016,Timaru,92
+2098,July 2016,Upper Hutt,123
+2099,July 2016,Waikato,238
+2100,July 2016,Waimakariri,91
+2101,July 2016,Waimate,7
+2102,July 2016,Waipa,139
+2103,July 2016,Wairoa,40
+2104,July 2016,Waitaki,34
+2105,July 2016,Waitomo,51
+2106,July 2016,Wanganui,170
+2107,July 2016,Wellington,680
+2108,July 2016,Western Bay of Plenty,107
+2109,July 2016,Westland,23
+2110,July 2016,Whakatane,159
+2111,July 2016,Whangarei,393
+2112,July 2017,Ashburton,86
+2113,July 2017,Auckland,6274
+2114,July 2017,Buller,21
+2115,July 2017,Carterton,19
+2116,July 2017,Central Hawke's Bay,23
+2117,July 2017,Central Otago,20
+2118,July 2017,Christchurch,1790
+2119,July 2017,Clutha,40
+2120,July 2017,Dunedin,255
+2121,July 2017,Far North,259
+2122,July 2017,Gisborne,181
+2123,July 2017,Gore,64
+2124,July 2017,Grey,39
+2125,July 2017,Hamilton,1004
+2126,July 2017,Hastings,473
+2127,July 2017,Hauraki,75
+2128,July 2017,Horowhenua,174
+2129,July 2017,Hurunui,34
+2130,July 2017,Invercargill,143
+2131,July 2017,Kaikoura,4
+2132,July 2017,Kaipara,59
+2133,July 2017,Kapiti Coast,175
+2134,July 2017,Kawerau,21
+2135,July 2017,Lower Hutt,472
+2136,July 2017,Mackenzie,8
+2137,July 2017,Manawatu,79
+2138,July 2017,Marlborough,104
+2139,July 2017,Masterton,102
+2140,July 2017,Matamata-Piako,120
+2141,July 2017,Napier,341
+2142,July 2017,Nelson,203
+2143,July 2017,New Plymouth,332
+2144,July 2017,Opotiki,28
+2145,July 2017,Otorohanga,27
+2146,July 2017,Palmerston North,479
+2147,July 2017,Porirua,182
+2148,July 2017,Queenstown-Lakes,95
+2149,July 2017,Rangitikei,32
+2150,July 2017,Rotorua,404
+2151,July 2017,Ruapehu,45
+2152,July 2017,Selwyn,90
+2153,July 2017,South Taranaki,57
+2154,July 2017,South Waikato,92
+2155,July 2017,South Wairarapa,24
+2156,July 2017,Southland,38
+2157,July 2017,Stratford,20
+2158,July 2017,Tararua,66
+2159,July 2017,Tasman,101
+2160,July 2017,Taupo,199
+2161,July 2017,Tauranga,566
+2162,July 2017,Thames-Coromandel,122
+2163,July 2017,Timaru,96
+2164,July 2017,Upper Hutt,111
+2165,July 2017,Waikato,225
+2166,July 2017,Waimakariri,125
+2167,July 2017,Waimate,12
+2168,July 2017,Waipa,124
+2169,July 2017,Wairoa,29
+2170,July 2017,Waitaki,44
+2171,July 2017,Waitomo,41
+2172,July 2017,Wanganui,232
+2173,July 2017,Wellington,688
+2174,July 2017,Western Bay of Plenty,120
+2175,July 2017,Westland,27
+2176,July 2017,Whakatane,186
+2177,July 2017,Whangarei,363
+2178,July 2018,Ashburton,61
+2179,July 2018,Auckland,6300
+2180,July 2018,Buller,39
+2181,July 2018,Carterton,16
+2182,July 2018,Central Hawke's Bay,32
+2183,July 2018,Central Otago,17
+2184,July 2018,Christchurch,1797
+2185,July 2018,Clutha,31
+2186,July 2018,Dunedin,257
+2187,July 2018,Far North,248
+2188,July 2018,Gisborne,186
+2189,July 2018,Gore,17
+2190,July 2018,Grey,28
+2191,July 2018,Hamilton,936
+2192,July 2018,Hastings,415
+2193,July 2018,Hauraki,63
+2194,July 2018,Horowhenua,134
+2195,July 2018,Hurunui,21
+2196,July 2018,Invercargill,167
+2197,July 2018,Kaikoura,7
+2198,July 2018,Kaipara,49
+2199,July 2018,Kapiti Coast,175
+2200,July 2018,Kawerau,41
+2201,July 2018,Lower Hutt,423
+2202,July 2018,Mackenzie,7
+2203,July 2018,Manawatu,65
+2204,July 2018,Marlborough,76
+2205,July 2018,Masterton,75
+2206,July 2018,Matamata-Piako,82
+2207,July 2018,Napier,386
+2208,July 2018,Nelson,160
+2209,July 2018,New Plymouth,193
+2210,July 2018,Opotiki,44
+2211,July 2018,Otorohanga,28
+2212,July 2018,Palmerston North,486
+2213,July 2018,Porirua,187
+2214,July 2018,Queenstown-Lakes,93
+2215,July 2018,Rangitikei,28
+2216,July 2018,Rotorua,381
+2217,July 2018,Ruapehu,49
+2218,July 2018,Selwyn,68
+2219,July 2018,South Taranaki,60
+2220,July 2018,South Waikato,95
+2221,July 2018,South Wairarapa,38
+2222,July 2018,Southland,37
+2223,July 2018,Stratford,27
+2224,July 2018,Tararua,47
+2225,July 2018,Tasman,79
+2226,July 2018,Taupo,150
+2227,July 2018,Tauranga,549
+2228,July 2018,Thames-Coromandel,112
+2229,July 2018,Timaru,98
+2230,July 2018,Upper Hutt,111
+2231,July 2018,Waikato,217
+2232,July 2018,Waimakariri,117
+2233,July 2018,Waimate,12
+2234,July 2018,Waipa,141
+2235,July 2018,Wairoa,24
+2236,July 2018,Waitaki,40
+2237,July 2018,Waitomo,35
+2238,July 2018,Wanganui,183
+2239,July 2018,Wellington,669
+2240,July 2018,Western Bay of Plenty,119
+2241,July 2018,Westland,9
+2242,July 2018,Whakatane,158
+2243,July 2018,Whangarei,421
+2244,July 2019,Ashburton,55
+2245,July 2019,Auckland,6471
+2246,July 2019,Buller,20
+2247,July 2019,Carterton,15
+2248,July 2019,Central Hawke's Bay,31
+2249,July 2019,Central Otago,34
+2250,July 2019,Christchurch,2091
+2251,July 2019,Clutha,38
+2252,July 2019,Dunedin,282
+2253,July 2019,Far North,331
+2254,July 2019,Gisborne,190
+2255,July 2019,Gore,38
+2256,July 2019,Grey,39
+2257,July 2019,Hamilton,1085
+2258,July 2019,Hastings,417
+2259,July 2019,Hauraki,76
+2260,July 2019,Horowhenua,159
+2261,July 2019,Hurunui,30
+2262,July 2019,Invercargill,194
+2263,July 2019,Kaikoura,10
+2264,July 2019,Kaipara,67
+2265,July 2019,Kapiti Coast,162
+2266,July 2019,Kawerau,34
+2267,July 2019,Lower Hutt,514
+2268,July 2019,Mackenzie,8
+2269,July 2019,Manawatu,72
+2270,July 2019,Marlborough,85
+2271,July 2019,Masterton,133
+2272,July 2019,Matamata-Piako,183
+2273,July 2019,Napier,370
+2274,July 2019,Nelson,145
+2275,July 2019,New Plymouth,299
+2276,July 2019,Opotiki,50
+2277,July 2019,Otorohanga,15
+2278,July 2019,Palmerston North,557
+2279,July 2019,Porirua,197
+2280,July 2019,Queenstown-Lakes,130
+2281,July 2019,Rangitikei,33
+2282,July 2019,Rotorua,429
+2283,July 2019,Ruapehu,49
+2284,July 2019,Selwyn,65
+2285,July 2019,South Taranaki,71
+2286,July 2019,South Waikato,85
+2287,July 2019,South Wairarapa,22
+2288,July 2019,Southland,48
+2289,July 2019,Stratford,42
+2290,July 2019,Tararua,52
+2291,July 2019,Tasman,98
+2292,July 2019,Taupo,208
+2293,July 2019,Tauranga,499
+2294,July 2019,Thames-Coromandel,122
+2295,July 2019,Timaru,123
+2296,July 2019,Upper Hutt,129
+2297,July 2019,Waikato,281
+2298,July 2019,Waimakariri,186
+2299,July 2019,Waimate,16
+2300,July 2019,Waipa,110
+2301,July 2019,Wairoa,22
+2302,July 2019,Waitaki,39
+2303,July 2019,Waitomo,19
+2304,July 2019,Wanganui,215
+2305,July 2019,Wellington,852
+2306,July 2019,Western Bay of Plenty,135
+2307,July 2019,Westland,14
+2308,July 2019,Whakatane,182
+2309,July 2019,Whangarei,382
+2310,June 2015,Ashburton,45
+2311,June 2015,Auckland,6795
+2312,June 2015,Buller,36
+2313,June 2015,Carterton,14
+2314,June 2015,Central Hawke's Bay,31
+2315,June 2015,Central Otago,26
+2316,June 2015,Christchurch,1582
+2317,June 2015,Clutha,17
+2318,June 2015,Dunedin,297
+2319,June 2015,Far North,300
+2320,June 2015,Gisborne,193
+2321,June 2015,Gore,26
+2322,June 2015,Grey,33
+2323,June 2015,Hamilton,748
+2324,June 2015,Hastings,348
+2325,June 2015,Hauraki,38
+2326,June 2015,Horowhenua,102
+2327,June 2015,Hurunui,27
+2328,June 2015,Invercargill,140
+2329,June 2015,Kaikoura,10
+2330,June 2015,Kaipara,88
+2331,June 2015,Kapiti Coast,139
+2332,June 2015,Kawerau,43
+2333,June 2015,Lower Hutt,464
+2334,June 2015,Mackenzie,4
+2335,June 2015,Manawatu,67
+2336,June 2015,Marlborough,122
+2337,June 2015,Masterton,96
+2338,June 2015,Matamata-Piako,129
+2339,June 2015,Napier,239
+2340,June 2015,Nelson,147
+2341,June 2015,New Plymouth,181
+2342,June 2015,Opotiki,32
+2343,June 2015,Otorohanga,20
+2344,June 2015,Palmerston North,468
+2345,June 2015,Porirua,214
+2346,June 2015,Queenstown-Lakes,70
+2347,June 2015,Rangitikei,27
+2348,June 2015,Rotorua,389
+2349,June 2015,Ruapehu,44
+2350,June 2015,Selwyn,71
+2351,June 2015,South Taranaki,45
+2352,June 2015,South Waikato,76
+2353,June 2015,South Wairarapa,29
+2354,June 2015,Southland,51
+2355,June 2015,Stratford,21
+2356,June 2015,Tararua,46
+2357,June 2015,Tasman,98
+2358,June 2015,Taupo,168
+2359,June 2015,Tauranga,430
+2360,June 2015,Thames-Coromandel,60
+2361,June 2015,Timaru,77
+2362,June 2015,Upper Hutt,133
+2363,June 2015,Waikato,204
+2364,June 2015,Waimakariri,93
+2365,June 2015,Waimate,9
+2366,June 2015,Waipa,124
+2367,June 2015,Wairoa,35
+2368,June 2015,Waitaki,45
+2369,June 2015,Waitomo,28
+2370,June 2015,Wanganui,206
+2371,June 2015,Wellington,643
+2372,June 2015,Western Bay of Plenty,92
+2373,June 2015,Westland,13
+2374,June 2015,Whakatane,161
+2375,June 2015,Whangarei,412
+2376,June 2016,Ashburton,119
+2377,June 2016,Auckland,6450
+2378,June 2016,Buller,18
+2379,June 2016,Carterton,17
+2380,June 2016,Central Hawke's Bay,26
+2381,June 2016,Central Otago,15
+2382,June 2016,Christchurch,1798
+2383,June 2016,Clutha,48
+2384,June 2016,Dunedin,252
+2385,June 2016,Far North,283
+2386,June 2016,Gisborne,222
+2387,June 2016,Gore,33
+2388,June 2016,Grey,28
+2389,June 2016,Hamilton,992
+2390,June 2016,Hastings,423
+2391,June 2016,Hauraki,70
+2392,June 2016,Horowhenua,118
+2393,June 2016,Hurunui,25
+2394,June 2016,Invercargill,164
+2395,June 2016,Kaikoura,2
+2396,June 2016,Kaipara,57
+2397,June 2016,Kapiti Coast,174
+2398,June 2016,Kawerau,37
+2399,June 2016,Lower Hutt,430
+2400,June 2016,Mackenzie,8
+2401,June 2016,Manawatu,89
+2402,June 2016,Marlborough,99
+2403,June 2016,Masterton,136
+2404,June 2016,Matamata-Piako,118
+2405,June 2016,Napier,389
+2406,June 2016,Nelson,179
+2407,June 2016,New Plymouth,203
+2408,June 2016,Opotiki,44
+2409,June 2016,Otorohanga,20
+2410,June 2016,Palmerston North,471
+2411,June 2016,Porirua,167
+2412,June 2016,Queenstown-Lakes,102
+2413,June 2016,Rangitikei,32
+2414,June 2016,Rotorua,429
+2415,June 2016,Ruapehu,46
+2416,June 2016,Selwyn,56
+2417,June 2016,South Taranaki,94
+2418,June 2016,South Waikato,70
+2419,June 2016,South Wairarapa,24
+2420,June 2016,Southland,77
+2421,June 2016,Stratford,14
+2422,June 2016,Tararua,45
+2423,June 2016,Tasman,111
+2424,June 2016,Taupo,172
+2425,June 2016,Tauranga,416
+2426,June 2016,Thames-Coromandel,109
+2427,June 2016,Timaru,97
+2428,June 2016,Upper Hutt,163
+2429,June 2016,Waikato,226
+2430,June 2016,Waimakariri,76
+2431,June 2016,Waimate,14
+2432,June 2016,Waipa,145
+2433,June 2016,Wairoa,28
+2434,June 2016,Waitaki,39
+2435,June 2016,Waitomo,44
+2436,June 2016,Wanganui,192
+2437,June 2016,Wellington,658
+2438,June 2016,Western Bay of Plenty,110
+2439,June 2016,Westland,15
+2440,June 2016,Whakatane,150
+2441,June 2016,Whangarei,388
+2442,June 2017,Ashburton,104
+2443,June 2017,Auckland,6327
+2444,June 2017,Buller,35
+2445,June 2017,Carterton,18
+2446,June 2017,Central Hawke's Bay,26
+2447,June 2017,Central Otago,24
+2448,June 2017,Christchurch,1769
+2449,June 2017,Clutha,39
+2450,June 2017,Dunedin,268
+2451,June 2017,Far North,350
+2452,June 2017,Gisborne,194
+2453,June 2017,Gore,39
+2454,June 2017,Grey,39
+2455,June 2017,Hamilton,903
+2456,June 2017,Hastings,420
+2457,June 2017,Hauraki,69
+2458,June 2017,Horowhenua,132
+2459,June 2017,Hurunui,21
+2460,June 2017,Invercargill,148
+2461,June 2017,Kaikoura,4
+2462,June 2017,Kaipara,54
+2463,June 2017,Kapiti Coast,165
+2464,June 2017,Kawerau,17
+2465,June 2017,Lower Hutt,411
+2466,June 2017,Mackenzie,6
+2467,June 2017,Manawatu,73
+2468,June 2017,Marlborough,111
+2469,June 2017,Masterton,130
+2470,June 2017,Matamata-Piako,156
+2471,June 2017,Napier,360
+2472,June 2017,Nelson,227
+2473,June 2017,New Plymouth,257
+2474,June 2017,Opotiki,50
+2475,June 2017,Otorohanga,27
+2476,June 2017,Palmerston North,427
+2477,June 2017,Porirua,156
+2478,June 2017,Queenstown-Lakes,74
+2479,June 2017,Rangitikei,23
+2480,June 2017,Rotorua,511
+2481,June 2017,Ruapehu,34
+2482,June 2017,Selwyn,72
+2483,June 2017,South Taranaki,68
+2484,June 2017,South Waikato,88
+2485,June 2017,South Wairarapa,28
+2486,June 2017,Southland,28
+2487,June 2017,Stratford,16
+2488,June 2017,Tararua,90
+2489,June 2017,Tasman,104
+2490,June 2017,Taupo,186
+2491,June 2017,Tauranga,533
+2492,June 2017,Thames-Coromandel,105
+2493,June 2017,Timaru,97
+2494,June 2017,Upper Hutt,107
+2495,June 2017,Waikato,224
+2496,June 2017,Waimakariri,103
+2497,June 2017,Waimate,10
+2498,June 2017,Waipa,128
+2499,June 2017,Wairoa,27
+2500,June 2017,Waitaki,52
+2501,June 2017,Waitomo,33
+2502,June 2017,Wanganui,198
+2503,June 2017,Wellington,668
+2504,June 2017,Western Bay of Plenty,108
+2505,June 2017,Westland,18
+2506,June 2017,Whakatane,198
+2507,June 2017,Whangarei,353
+2508,June 2018,Ashburton,70
+2509,June 2018,Auckland,6345
+2510,June 2018,Buller,47
+2511,June 2018,Carterton,16
+2512,June 2018,Central Hawke's Bay,30
+2513,June 2018,Central Otago,15
+2514,June 2018,Christchurch,1750
+2515,June 2018,Clutha,25
+2516,June 2018,Dunedin,236
+2517,June 2018,Far North,305
+2518,June 2018,Gisborne,209
+2519,June 2018,Gore,21
+2520,June 2018,Grey,35
+2521,June 2018,Hamilton,906
+2522,June 2018,Hastings,513
+2523,June 2018,Hauraki,73
+2524,June 2018,Horowhenua,115
+2525,June 2018,Hurunui,26
+2526,June 2018,Invercargill,172
+2527,June 2018,Kaikoura,11
+2528,June 2018,Kaipara,63
+2529,June 2018,Kapiti Coast,142
+2530,June 2018,Kawerau,12
+2531,June 2018,Lower Hutt,475
+2532,June 2018,Mackenzie,7
+2533,June 2018,Manawatu,58
+2534,June 2018,Marlborough,100
+2535,June 2018,Masterton,101
+2536,June 2018,Matamata-Piako,134
+2537,June 2018,Napier,389
+2538,June 2018,Nelson,122
+2539,June 2018,New Plymouth,184
+2540,June 2018,Opotiki,56
+2541,June 2018,Otorohanga,28
+2542,June 2018,Palmerston North,432
+2543,June 2018,Porirua,199
+2544,June 2018,Queenstown-Lakes,60
+2545,June 2018,Rangitikei,39
+2546,June 2018,Rotorua,447
+2547,June 2018,Ruapehu,58
+2548,June 2018,Selwyn,72
+2549,June 2018,South Taranaki,81
+2550,June 2018,South Waikato,127
+2551,June 2018,South Wairarapa,30
+2552,June 2018,Southland,35
+2553,June 2018,Stratford,29
+2554,June 2018,Tararua,54
+2555,June 2018,Tasman,80
+2556,June 2018,Taupo,158
+2557,June 2018,Tauranga,487
+2558,June 2018,Thames-Coromandel,90
+2559,June 2018,Timaru,86
+2560,June 2018,Upper Hutt,107
+2561,June 2018,Waikato,266
+2562,June 2018,Waimakariri,110
+2563,June 2018,Waimate,17
+2564,June 2018,Waipa,108
+2565,June 2018,Wairoa,32
+2566,June 2018,Waitaki,34
+2567,June 2018,Waitomo,32
+2568,June 2018,Wanganui,204
+2569,June 2018,Wellington,726
+2570,June 2018,Western Bay of Plenty,131
+2571,June 2018,Westland,11
+2572,June 2018,Whakatane,130
+2573,June 2018,Whangarei,450
+2574,June 2019,Ashburton,80
+2575,June 2019,Auckland,6113
+2576,June 2019,Buller,38
+2577,June 2019,Carterton,12
+2578,June 2019,Central Hawke's Bay,47
+2579,June 2019,Central Otago,32
+2580,June 2019,Christchurch,1760
+2581,June 2019,Clutha,32
+2582,June 2019,Dunedin,244
+2583,June 2019,Far North,239
+2584,June 2019,Gisborne,201
+2585,June 2019,Gore,31
+2586,June 2019,Grey,59
+2587,June 2019,Hamilton,882
+2588,June 2019,Hastings,409
+2589,June 2019,Hauraki,71
+2590,June 2019,Horowhenua,162
+2591,June 2019,Hurunui,38
+2592,June 2019,Invercargill,144
+2593,June 2019,Kaikoura,10
+2594,June 2019,Kaipara,57
+2595,June 2019,Kapiti Coast,167
+2596,June 2019,Kawerau,44
+2597,June 2019,Lower Hutt,520
+2598,June 2019,Mackenzie,5
+2599,June 2019,Manawatu,86
+2600,June 2019,Marlborough,87
+2601,June 2019,Masterton,90
+2602,June 2019,Matamata-Piako,117
+2603,June 2019,Napier,474
+2604,June 2019,Nelson,134
+2605,June 2019,New Plymouth,264
+2606,June 2019,Opotiki,45
+2607,June 2019,Otorohanga,26
+2608,June 2019,Palmerston North,504
+2609,June 2019,Porirua,203
+2610,June 2019,Queenstown-Lakes,81
+2611,June 2019,Rangitikei,33
+2612,June 2019,Rotorua,559
+2613,June 2019,Ruapehu,50
+2614,June 2019,Selwyn,74
+2615,June 2019,South Taranaki,71
+2616,June 2019,South Waikato,65
+2617,June 2019,South Wairarapa,16
+2618,June 2019,Southland,52
+2619,June 2019,Stratford,13
+2620,June 2019,Tararua,51
+2621,June 2019,Tasman,86
+2622,June 2019,Taupo,196
+2623,June 2019,Tauranga,484
+2624,June 2019,Thames-Coromandel,112
+2625,June 2019,Timaru,121
+2626,June 2019,Upper Hutt,116
+2627,June 2019,Waikato,207
+2628,June 2019,Waimakariri,126
+2629,June 2019,Waimate,14
+2630,June 2019,Waipa,102
+2631,June 2019,Wairoa,50
+2632,June 2019,Waitaki,54
+2633,June 2019,Waitomo,35
+2634,June 2019,Wanganui,205
+2635,June 2019,Wellington,814
+2636,June 2019,Western Bay of Plenty,128
+2637,June 2019,Westland,22
+2638,June 2019,Whakatane,212
+2639,June 2019,Whangarei,334
+2640,March 2015,Ashburton,87
+2641,March 2015,Auckland,7119
+2642,March 2015,Buller,23
+2643,March 2015,Carterton,18
+2644,March 2015,Central Hawke's Bay,26
+2645,March 2015,Central Otago,19
+2646,March 2015,Christchurch,1679
+2647,March 2015,Clutha,27
+2648,March 2015,Dunedin,321
+2649,March 2015,Far North,304
+2650,March 2015,Gisborne,171
+2651,March 2015,Gore,19
+2652,March 2015,Grey,26
+2653,March 2015,Hamilton,723
+2654,March 2015,Hastings,345
+2655,March 2015,Hauraki,52
+2656,March 2015,Horowhenua,112
+2657,March 2015,Hurunui,18
+2658,March 2015,Invercargill,146
+2659,March 2015,Kaikoura,22
+2660,March 2015,Kaipara,48
+2661,March 2015,Kapiti Coast,151
+2662,March 2015,Kawerau,27
+2663,March 2015,Lower Hutt,491
+2664,March 2015,Mackenzie,11
+2665,March 2015,Manawatu,54
+2666,March 2015,Marlborough,104
+2667,March 2015,Masterton,102
+2668,March 2015,Matamata-Piako,100
+2669,March 2015,Napier,280
+2670,March 2015,Nelson,220
+2671,March 2015,New Plymouth,162
+2672,March 2015,Opotiki,36
+2673,March 2015,Otorohanga,19
+2674,March 2015,Palmerston North,357
+2675,March 2015,Porirua,188
+2676,March 2015,Queenstown-Lakes,59
+2677,March 2015,Rangitikei,37
+2678,March 2015,Rotorua,346
+2679,March 2015,Ruapehu,33
+2680,March 2015,Selwyn,58
+2681,March 2015,South Taranaki,76
+2682,March 2015,South Waikato,91
+2683,March 2015,South Wairarapa,29
+2684,March 2015,Southland,66
+2685,March 2015,Stratford,19
+2686,March 2015,Tararua,47
+2687,March 2015,Tasman,105
+2688,March 2015,Taupo,156
+2689,March 2015,Tauranga,379
+2690,March 2015,Thames-Coromandel,89
+2691,March 2015,Timaru,101
+2692,March 2015,Upper Hutt,159
+2693,March 2015,Waikato,203
+2694,March 2015,Waimakariri,67
+2695,March 2015,Waimate,10
+2696,March 2015,Waipa,105
+2697,March 2015,Wairoa,22
+2698,March 2015,Waitaki,43
+2699,March 2015,Waitomo,22
+2700,March 2015,Wanganui,191
+2701,March 2015,Wellington,951
+2702,March 2015,Western Bay of Plenty,79
+2703,March 2015,Westland,16
+2704,March 2015,Whakatane,123
+2705,March 2015,Whangarei,399
+2706,March 2016,Ashburton,85
+2707,March 2016,Auckland,7107
+2708,March 2016,Buller,28
+2709,March 2016,Carterton,22
+2710,March 2016,Central Hawke's Bay,27
+2711,March 2016,Central Otago,32
+2712,March 2016,Christchurch,1659
+2713,March 2016,Clutha,47
+2714,March 2016,Dunedin,377
+2715,March 2016,Far North,282
+2716,March 2016,Gisborne,200
+2717,March 2016,Gore,24
+2718,March 2016,Grey,41
+2719,March 2016,Hamilton,827
+2720,March 2016,Hastings,398
+2721,March 2016,Hauraki,69
+2722,March 2016,Horowhenua,94
+2723,March 2016,Hurunui,24
+2724,March 2016,Invercargill,151
+2725,March 2016,Kaikoura,18
+2726,March 2016,Kaipara,59
+2727,March 2016,Kapiti Coast,135
+2728,March 2016,Kawerau,23
+2729,March 2016,Lower Hutt,435
+2730,March 2016,Mackenzie,13
+2731,March 2016,Manawatu,70
+2732,March 2016,Marlborough,101
+2733,March 2016,Masterton,73
+2734,March 2016,Matamata-Piako,124
+2735,March 2016,Napier,361
+2736,March 2016,Nelson,249
+2737,March 2016,New Plymouth,219
+2738,March 2016,Opotiki,44
+2739,March 2016,Otorohanga,12
+2740,March 2016,Palmerston North,424
+2741,March 2016,Porirua,179
+2742,March 2016,Queenstown-Lakes,81
+2743,March 2016,Rangitikei,31
+2744,March 2016,Rotorua,567
+2745,March 2016,Ruapehu,34
+2746,March 2016,Selwyn,85
+2747,March 2016,South Taranaki,73
+2748,March 2016,South Waikato,98
+2749,March 2016,South Wairarapa,30
+2750,March 2016,Southland,63
+2751,March 2016,Stratford,20
+2752,March 2016,Tararua,39
+2753,March 2016,Tasman,145
+2754,March 2016,Taupo,216
+2755,March 2016,Tauranga,478
+2756,March 2016,Thames-Coromandel,85
+2757,March 2016,Timaru,110
+2758,March 2016,Upper Hutt,122
+2759,March 2016,Waikato,207
+2760,March 2016,Waimakariri,105
+2761,March 2016,Waimate,10
+2762,March 2016,Waipa,109
+2763,March 2016,Wairoa,23
+2764,March 2016,Waitaki,33
+2765,March 2016,Waitomo,27
+2766,March 2016,Wanganui,192
+2767,March 2016,Wellington,606
+2768,March 2016,Western Bay of Plenty,103
+2769,March 2016,Westland,26
+2770,March 2016,Whakatane,157
+2771,March 2016,Whangarei,426
+2772,March 2017,Ashburton,98
+2773,March 2017,Auckland,6920
+2774,March 2017,Buller,28
+2775,March 2017,Carterton,26
+2776,March 2017,Central Hawke's Bay,34
+2777,March 2017,Central Otago,25
+2778,March 2017,Christchurch,1736
+2779,March 2017,Clutha,46
+2780,March 2017,Dunedin,274
+2781,March 2017,Far North,306
+2782,March 2017,Gisborne,235
+2783,March 2017,Gore,50
+2784,March 2017,Grey,49
+2785,March 2017,Hamilton,877
+2786,March 2017,Hastings,509
+2787,March 2017,Hauraki,68
+2788,March 2017,Horowhenua,175
+2789,March 2017,Hurunui,32
+2790,March 2017,Invercargill,160
+2791,March 2017,Kaikoura,23
+2792,March 2017,Kaipara,78
+2793,March 2017,Kapiti Coast,176
+2794,March 2017,Kawerau,14
+2795,March 2017,Lower Hutt,483
+2796,March 2017,Mackenzie,7
+2797,March 2017,Manawatu,113
+2798,March 2017,Marlborough,111
+2799,March 2017,Masterton,149
+2800,March 2017,Matamata-Piako,114
+2801,March 2017,Napier,430
+2802,March 2017,Nelson,216
+2803,March 2017,New Plymouth,250
+2804,March 2017,Opotiki,67
+2805,March 2017,Otorohanga,28
+2806,March 2017,Palmerston North,614
+2807,March 2017,Porirua,182
+2808,March 2017,Queenstown-Lakes,62
+2809,March 2017,Rangitikei,40
+2810,March 2017,Rotorua,529
+2811,March 2017,Ruapehu,48
+2812,March 2017,Selwyn,93
+2813,March 2017,South Taranaki,76
+2814,March 2017,South Waikato,84
+2815,March 2017,South Wairarapa,46
+2816,March 2017,Southland,58
+2817,March 2017,Stratford,21
+2818,March 2017,Tararua,56
+2819,March 2017,Tasman,115
+2820,March 2017,Taupo,218
+2821,March 2017,Tauranga,521
+2822,March 2017,Thames-Coromandel,120
+2823,March 2017,Timaru,97
+2824,March 2017,Upper Hutt,120
+2825,March 2017,Waikato,254
+2826,March 2017,Waimakariri,130
+2827,March 2017,Waimate,12
+2828,March 2017,Waipa,128
+2829,March 2017,Wairoa,38
+2830,March 2017,Waitaki,77
+2831,March 2017,Waitomo,16
+2832,March 2017,Wanganui,184
+2833,March 2017,Wellington,760
+2834,March 2017,Western Bay of Plenty,104
+2835,March 2017,Westland,31
+2836,March 2017,Whakatane,146
+2837,March 2017,Whangarei,451
+2838,March 2018,Ashburton,139
+2839,March 2018,Auckland,6354
+2840,March 2018,Buller,45
+2841,March 2018,Carterton,8
+2842,March 2018,Central Hawke's Bay,40
+2843,March 2018,Central Otago,28
+2844,March 2018,Christchurch,1817
+2845,March 2018,Clutha,37
+2846,March 2018,Dunedin,354
+2847,March 2018,Far North,370
+2848,March 2018,Gisborne,192
+2849,March 2018,Gore,31
+2850,March 2018,Grey,32
+2851,March 2018,Hamilton,973
+2852,March 2018,Hastings,463
+2853,March 2018,Hauraki,82
+2854,March 2018,Horowhenua,128
+2855,March 2018,Hurunui,23
+2856,March 2018,Invercargill,191
+2857,March 2018,Kaikoura,16
+2858,March 2018,Kaipara,62
+2859,March 2018,Kapiti Coast,134
+2860,March 2018,Kawerau,30
+2861,March 2018,Lower Hutt,429
+2862,March 2018,Mackenzie,13
+2863,March 2018,Manawatu,92
+2864,March 2018,Marlborough,103
+2865,March 2018,Masterton,125
+2866,March 2018,Matamata-Piako,117
+2867,March 2018,Napier,421
+2868,March 2018,Nelson,160
+2869,March 2018,New Plymouth,224
+2870,March 2018,Opotiki,41
+2871,March 2018,Otorohanga,24
+2872,March 2018,Palmerston North,500
+2873,March 2018,Porirua,236
+2874,March 2018,Queenstown-Lakes,85
+2875,March 2018,Rangitikei,39
+2876,March 2018,Rotorua,429
+2877,March 2018,Ruapehu,33
+2878,March 2018,Selwyn,61
+2879,March 2018,South Taranaki,66
+2880,March 2018,South Waikato,72
+2881,March 2018,South Wairarapa,26
+2882,March 2018,Southland,57
+2883,March 2018,Stratford,18
+2884,March 2018,Tararua,53
+2885,March 2018,Tasman,85
+2886,March 2018,Taupo,160
+2887,March 2018,Tauranga,604
+2888,March 2018,Thames-Coromandel,119
+2889,March 2018,Timaru,111
+2890,March 2018,Upper Hutt,148
+2891,March 2018,Waikato,254
+2892,March 2018,Waimakariri,130
+2893,March 2018,Waimate,20
+2894,March 2018,Waipa,128
+2895,March 2018,Wairoa,41
+2896,March 2018,Waitaki,50
+2897,March 2018,Waitomo,34
+2898,March 2018,Wanganui,185
+2899,March 2018,Wellington,748
+2900,March 2018,Western Bay of Plenty,136
+2901,March 2018,Westland,20
+2902,March 2018,Whakatane,171
+2903,March 2018,Whangarei,428
+2904,March 2019,Ashburton,106
+2905,March 2019,Auckland,6417
+2906,March 2019,Buller,19
+2907,March 2019,Carterton,20
+2908,March 2019,Central Hawke's Bay,24
+2909,March 2019,Central Otago,51
+2910,March 2019,Christchurch,1930
+2911,March 2019,Clutha,33
+2912,March 2019,Dunedin,307
+2913,March 2019,Far North,278
+2914,March 2019,Gisborne,225
+2915,March 2019,Gore,35
+2916,March 2019,Grey,41
+2917,March 2019,Hamilton,805
+2918,March 2019,Hastings,360
+2919,March 2019,Hauraki,69
+2920,March 2019,Horowhenua,137
+2921,March 2019,Hurunui,27
+2922,March 2019,Invercargill,149
+2923,March 2019,Kaikoura,18
+2924,March 2019,Kaipara,68
+2925,March 2019,Kapiti Coast,175
+2926,March 2019,Kawerau,30
+2927,March 2019,Lower Hutt,449
+2928,March 2019,Mackenzie,7
+2929,March 2019,Manawatu,99
+2930,March 2019,Marlborough,151
+2931,March 2019,Masterton,115
+2932,March 2019,Matamata-Piako,70
+2933,March 2019,Napier,367
+2934,March 2019,Nelson,128
+2935,March 2019,New Plymouth,211
+2936,March 2019,Opotiki,39
+2937,March 2019,Otorohanga,29
+2938,March 2019,Palmerston North,454
+2939,March 2019,Porirua,282
+2940,March 2019,Queenstown-Lakes,91
+2941,March 2019,Rangitikei,36
+2942,March 2019,Rotorua,411
+2943,March 2019,Ruapehu,47
+2944,March 2019,Selwyn,80
+2945,March 2019,South Taranaki,68
+2946,March 2019,South Waikato,99
+2947,March 2019,South Wairarapa,28
+2948,March 2019,Southland,54
+2949,March 2019,Stratford,25
+2950,March 2019,Tararua,46
+2951,March 2019,Tasman,104
+2952,March 2019,Taupo,206
+2953,March 2019,Tauranga,548
+2954,March 2019,Thames-Coromandel,119
+2955,March 2019,Timaru,146
+2956,March 2019,Upper Hutt,119
+2957,March 2019,Waikato,245
+2958,March 2019,Waimakariri,141
+2959,March 2019,Waimate,22
+2960,March 2019,Waipa,119
+2961,March 2019,Wairoa,55
+2962,March 2019,Waitaki,38
+2963,March 2019,Waitomo,48
+2964,March 2019,Wanganui,229
+2965,March 2019,Wellington,903
+2966,March 2019,Western Bay of Plenty,145
+2967,March 2019,Westland,19
+2968,March 2019,Whakatane,189
+2969,March 2019,Whangarei,336
+2970,March 2020,Ashburton,65
+2971,March 2020,Auckland,6680
+2972,March 2020,Buller,30
+2973,March 2020,Carterton,12
+2974,March 2020,Central Hawke's Bay,26
+2975,March 2020,Central Otago,43
+2976,March 2020,Christchurch,2323
+2977,March 2020,Clutha,37
+2978,March 2020,Dunedin,247
+2979,March 2020,Far North,420
+2980,March 2020,Gisborne,218
+2981,March 2020,Gore,17
+2982,March 2020,Grey,55
+2983,March 2020,Hamilton,1130
+2984,March 2020,Hastings,431
+2985,March 2020,Hauraki,66
+2986,March 2020,Horowhenua,148
+2987,March 2020,Hurunui,21
+2988,March 2020,Invercargill,189
+2989,March 2020,Kaikoura,14
+2990,March 2020,Kaipara,57
+2991,March 2020,Kapiti Coast,186
+2992,March 2020,Kawerau,39
+2993,March 2020,Lower Hutt,483
+2994,March 2020,Mackenzie,8
+2995,March 2020,Manawatu,100
+2996,March 2020,Marlborough,143
+2997,March 2020,Masterton,83
+2998,March 2020,Matamata-Piako,127
+2999,March 2020,Napier,507
+3000,March 2020,Nelson,196
+3001,March 2020,New Plymouth,317
+3002,March 2020,Opotiki,39
+3003,March 2020,Otorohanga,21
+3004,March 2020,Palmerston North,540
+3005,March 2020,Porirua,208
+3006,March 2020,Queenstown-Lakes,77
+3007,March 2020,Rangitikei,33
+3008,March 2020,Rotorua,582
+3009,March 2020,Ruapehu,59
+3010,March 2020,Selwyn,130
+3011,March 2020,South Taranaki,78
+3012,March 2020,South Waikato,139
+3013,March 2020,South Wairarapa,24
+3014,March 2020,Southland,30
+3015,March 2020,Stratford,40
+3016,March 2020,Tararua,62
+3017,March 2020,Tasman,122
+3018,March 2020,Taupo,222
+3019,March 2020,Tauranga,630
+3020,March 2020,Thames-Coromandel,98
+3021,March 2020,Timaru,123
+3022,March 2020,Upper Hutt,154
+3023,March 2020,Waikato,270
+3024,March 2020,Waimakariri,113
+3025,March 2020,Waimate,20
+3026,March 2020,Waipa,156
+3027,March 2020,Wairoa,44
+3028,March 2020,Waitaki,78
+3029,March 2020,Waitomo,47
+3030,March 2020,Wanganui,226
+3031,March 2020,Wellington,915
+3032,March 2020,Western Bay of Plenty,182
+3033,March 2020,Westland,21
+3034,March 2020,Whakatane,153
+3035,March 2020,Whangarei,503
+3036,May 2015,Ashburton,61
+3037,May 2015,Auckland,6975
+3038,May 2015,Buller,26
+3039,May 2015,Carterton,14
+3040,May 2015,Central Hawke's Bay,14
+3041,May 2015,Central Otago,21
+3042,May 2015,Christchurch,1591
+3043,May 2015,Clutha,37
+3044,May 2015,Dunedin,318
+3045,May 2015,Far North,294
+3046,May 2015,Gisborne,187
+3047,May 2015,Gore,27
+3048,May 2015,Grey,35
+3049,May 2015,Hamilton,697
+3050,May 2015,Hastings,378
+3051,May 2015,Hauraki,48
+3052,May 2015,Horowhenua,83
+3053,May 2015,Hurunui,34
+3054,May 2015,Invercargill,135
+3055,May 2015,Kaikoura,20
+3056,May 2015,Kaipara,61
+3057,May 2015,Kapiti Coast,134
+3058,May 2015,Kawerau,35
+3059,May 2015,Lower Hutt,463
+3060,May 2015,Mackenzie,4
+3061,May 2015,Manawatu,67
+3062,May 2015,Marlborough,119
+3063,May 2015,Masterton,110
+3064,May 2015,Matamata-Piako,131
+3065,May 2015,Napier,289
+3066,May 2015,Nelson,162
+3067,May 2015,New Plymouth,179
+3068,May 2015,Opotiki,44
+3069,May 2015,Otorohanga,19
+3070,May 2015,Palmerston North,449
+3071,May 2015,Porirua,206
+3072,May 2015,Queenstown-Lakes,65
+3073,May 2015,Rangitikei,26
+3074,May 2015,Rotorua,401
+3075,May 2015,Ruapehu,35
+3076,May 2015,Selwyn,76
+3077,May 2015,South Taranaki,59
+3078,May 2015,South Waikato,80
+3079,May 2015,South Wairarapa,28
+3080,May 2015,Southland,79
+3081,May 2015,Stratford,13
+3082,May 2015,Tararua,65
+3083,May 2015,Tasman,118
+3084,May 2015,Taupo,194
+3085,May 2015,Tauranga,359
+3086,May 2015,Thames-Coromandel,68
+3087,May 2015,Timaru,96
+3088,May 2015,Upper Hutt,133
+3089,May 2015,Waikato,207
+3090,May 2015,Waimakariri,78
+3091,May 2015,Waimate,11
+3092,May 2015,Waipa,113
+3093,May 2015,Wairoa,24
+3094,May 2015,Waitaki,44
+3095,May 2015,Waitomo,28
+3096,May 2015,Wanganui,171
+3097,May 2015,Wellington,757
+3098,May 2015,Western Bay of Plenty,78
+3099,May 2015,Westland,12
+3100,May 2015,Whakatane,127
+3101,May 2015,Whangarei,440
+3102,May 2016,Ashburton,116
+3103,May 2016,Auckland,6548
+3104,May 2016,Buller,23
+3105,May 2016,Carterton,23
+3106,May 2016,Central Hawke's Bay,34
+3107,May 2016,Central Otago,21
+3108,May 2016,Christchurch,1832
+3109,May 2016,Clutha,51
+3110,May 2016,Dunedin,275
+3111,May 2016,Far North,293
+3112,May 2016,Gisborne,213
+3113,May 2016,Gore,27
+3114,May 2016,Grey,53
+3115,May 2016,Hamilton,1008
+3116,May 2016,Hastings,468
+3117,May 2016,Hauraki,88
+3118,May 2016,Horowhenua,123
+3119,May 2016,Hurunui,26
+3120,May 2016,Invercargill,162
+3121,May 2016,Kaikoura,10
+3122,May 2016,Kaipara,60
+3123,May 2016,Kapiti Coast,165
+3124,May 2016,Kawerau,38
+3125,May 2016,Lower Hutt,409
+3126,May 2016,Mackenzie,8
+3127,May 2016,Manawatu,81
+3128,May 2016,Marlborough,114
+3129,May 2016,Masterton,117
+3130,May 2016,Matamata-Piako,152
+3131,May 2016,Napier,347
+3132,May 2016,Nelson,232
+3133,May 2016,New Plymouth,210
+3134,May 2016,Opotiki,35
+3135,May 2016,Otorohanga,16
+3136,May 2016,Palmerston North,521
+3137,May 2016,Porirua,179
+3138,May 2016,Queenstown-Lakes,50
+3139,May 2016,Rangitikei,36
+3140,May 2016,Rotorua,403
+3141,May 2016,Ruapehu,33
+3142,May 2016,Selwyn,93
+3143,May 2016,South Taranaki,88
+3144,May 2016,South Waikato,93
+3145,May 2016,South Wairarapa,34
+3146,May 2016,Southland,61
+3147,May 2016,Stratford,15
+3148,May 2016,Tararua,52
+3149,May 2016,Tasman,115
+3150,May 2016,Taupo,245
+3151,May 2016,Tauranga,437
+3152,May 2016,Thames-Coromandel,86
+3153,May 2016,Timaru,121
+3154,May 2016,Upper Hutt,162
+3155,May 2016,Waikato,236
+3156,May 2016,Waimakariri,97
+3157,May 2016,Waimate,28
+3158,May 2016,Waipa,108
+3159,May 2016,Wairoa,38
+3160,May 2016,Waitaki,54
+3161,May 2016,Waitomo,43
+3162,May 2016,Wanganui,191
+3163,May 2016,Wellington,689
+3164,May 2016,Western Bay of Plenty,129
+3165,May 2016,Westland,15
+3166,May 2016,Whakatane,144
+3167,May 2016,Whangarei,446
+3168,May 2017,Ashburton,69
+3169,May 2017,Auckland,7051
+3170,May 2017,Buller,18
+3171,May 2017,Carterton,9
+3172,May 2017,Central Hawke's Bay,41
+3173,May 2017,Central Otago,23
+3174,May 2017,Christchurch,1906
+3175,May 2017,Clutha,36
+3176,May 2017,Dunedin,311
+3177,May 2017,Far North,329
+3178,May 2017,Gisborne,274
+3179,May 2017,Gore,41
+3180,May 2017,Grey,50
+3181,May 2017,Hamilton,1056
+3182,May 2017,Hastings,516
+3183,May 2017,Hauraki,87
+3184,May 2017,Horowhenua,133
+3185,May 2017,Hurunui,19
+3186,May 2017,Invercargill,144
+3187,May 2017,Kaikoura,9
+3188,May 2017,Kaipara,85
+3189,May 2017,Kapiti Coast,209
+3190,May 2017,Kawerau,21
+3191,May 2017,Lower Hutt,471
+3192,May 2017,Mackenzie,5
+3193,May 2017,Manawatu,85
+3194,May 2017,Marlborough,130
+3195,May 2017,Masterton,99
+3196,May 2017,Matamata-Piako,151
+3197,May 2017,Napier,377
+3198,May 2017,Nelson,192
+3199,May 2017,New Plymouth,237
+3200,May 2017,Opotiki,33
+3201,May 2017,Otorohanga,32
+3202,May 2017,Palmerston North,611
+3203,May 2017,Porirua,217
+3204,May 2017,Queenstown-Lakes,64
+3205,May 2017,Rangitikei,39
+3206,May 2017,Rotorua,512
+3207,May 2017,Ruapehu,46
+3208,May 2017,Selwyn,68
+3209,May 2017,South Taranaki,68
+3210,May 2017,South Waikato,95
+3211,May 2017,South Wairarapa,24
+3212,May 2017,Southland,47
+3213,May 2017,Stratford,32
+3214,May 2017,Tararua,75
+3215,May 2017,Tasman,126
+3216,May 2017,Taupo,169
+3217,May 2017,Tauranga,516
+3218,May 2017,Thames-Coromandel,139
+3219,May 2017,Timaru,95
+3220,May 2017,Upper Hutt,151
+3221,May 2017,Waikato,260
+3222,May 2017,Waimakariri,85
+3223,May 2017,Waimate,16
+3224,May 2017,Waipa,129
+3225,May 2017,Wairoa,40
+3226,May 2017,Waitaki,65
+3227,May 2017,Waitomo,33
+3228,May 2017,Wanganui,241
+3229,May 2017,Wellington,722
+3230,May 2017,Western Bay of Plenty,136
+3231,May 2017,Westland,12
+3232,May 2017,Whakatane,172
+3233,May 2017,Whangarei,455
+3234,May 2018,Ashburton,70
+3235,May 2018,Auckland,6345
+3236,May 2018,Buller,42
+3237,May 2018,Carterton,16
+3238,May 2018,Central Hawke's Bay,33
+3239,May 2018,Central Otago,19
+3240,May 2018,Christchurch,1857
+3241,May 2018,Clutha,42
+3242,May 2018,Dunedin,249
+3243,May 2018,Far North,287
+3244,May 2018,Gisborne,256
+3245,May 2018,Gore,15
+3246,May 2018,Grey,29
+3247,May 2018,Hamilton,917
+3248,May 2018,Hastings,493
+3249,May 2018,Hauraki,65
+3250,May 2018,Horowhenua,138
+3251,May 2018,Hurunui,23
+3252,May 2018,Invercargill,164
+3253,May 2018,Kaikoura,10
+3254,May 2018,Kaipara,71
+3255,May 2018,Kapiti Coast,149
+3256,May 2018,Kawerau,21
+3257,May 2018,Lower Hutt,512
+3258,May 2018,Mackenzie,4
+3259,May 2018,Manawatu,109
+3260,May 2018,Marlborough,126
+3261,May 2018,Masterton,144
+3262,May 2018,Matamata-Piako,118
+3263,May 2018,Napier,393
+3264,May 2018,Nelson,159
+3265,May 2018,New Plymouth,217
+3266,May 2018,Opotiki,46
+3267,May 2018,Otorohanga,37
+3268,May 2018,Palmerston North,501
+3269,May 2018,Porirua,243
+3270,May 2018,Queenstown-Lakes,74
+3271,May 2018,Rangitikei,35
+3272,May 2018,Rotorua,484
+3273,May 2018,Ruapehu,43
+3274,May 2018,Selwyn,83
+3275,May 2018,South Taranaki,58
+3276,May 2018,South Waikato,128
+3277,May 2018,South Wairarapa,25
+3278,May 2018,Southland,54
+3279,May 2018,Stratford,33
+3280,May 2018,Tararua,60
+3281,May 2018,Tasman,92
+3282,May 2018,Taupo,129
+3283,May 2018,Tauranga,494
+3284,May 2018,Thames-Coromandel,114
+3285,May 2018,Timaru,83
+3286,May 2018,Upper Hutt,138
+3287,May 2018,Waikato,282
+3288,May 2018,Waimakariri,120
+3289,May 2018,Waimate,11
+3290,May 2018,Waipa,106
+3291,May 2018,Wairoa,25
+3292,May 2018,Waitaki,40
+3293,May 2018,Waitomo,45
+3294,May 2018,Wanganui,196
+3295,May 2018,Wellington,634
+3296,May 2018,Western Bay of Plenty,89
+3297,May 2018,Westland,15
+3298,May 2018,Whakatane,148
+3299,May 2018,Whangarei,451
+3300,May 2019,Ashburton,86
+3301,May 2019,Auckland,6468
+3302,May 2019,Buller,40
+3303,May 2019,Carterton,20
+3304,May 2019,Central Hawke's Bay,36
+3305,May 2019,Central Otago,42
+3306,May 2019,Christchurch,2093
+3307,May 2019,Clutha,48
+3308,May 2019,Dunedin,299
+3309,May 2019,Far North,360
+3310,May 2019,Gisborne,273
+3311,May 2019,Gore,25
+3312,May 2019,Grey,36
+3313,May 2019,Hamilton,910
+3314,May 2019,Hastings,423
+3315,May 2019,Hauraki,100
+3316,May 2019,Horowhenua,165
+3317,May 2019,Hurunui,53
+3318,May 2019,Invercargill,184
+3319,May 2019,Kaikoura,14
+3320,May 2019,Kaipara,59
+3321,May 2019,Kapiti Coast,188
+3322,May 2019,Kawerau,33
+3323,May 2019,Lower Hutt,551
+3324,May 2019,Mackenzie,7
+3325,May 2019,Manawatu,73
+3326,May 2019,Marlborough,104
+3327,May 2019,Masterton,143
+3328,May 2019,Matamata-Piako,117
+3329,May 2019,Napier,447
+3330,May 2019,Nelson,145
+3331,May 2019,New Plymouth,224
+3332,May 2019,Opotiki,75
+3333,May 2019,Otorohanga,38
+3334,May 2019,Palmerston North,497
+3335,May 2019,Porirua,232
+3336,May 2019,Queenstown-Lakes,85
+3337,May 2019,Rangitikei,35
+3338,May 2019,Rotorua,475
+3339,May 2019,Ruapehu,47
+3340,May 2019,Selwyn,86
+3341,May 2019,South Taranaki,57
+3342,May 2019,South Waikato,81
+3343,May 2019,South Wairarapa,30
+3344,May 2019,Southland,65
+3345,May 2019,Stratford,40
+3346,May 2019,Tararua,53
+3347,May 2019,Tasman,118
+3348,May 2019,Taupo,169
+3349,May 2019,Tauranga,464
+3350,May 2019,Thames-Coromandel,98
+3351,May 2019,Timaru,128
+3352,May 2019,Upper Hutt,108
+3353,May 2019,Waikato,240
+3354,May 2019,Waimakariri,107
+3355,May 2019,Waimate,12
+3356,May 2019,Waipa,145
+3357,May 2019,Wairoa,48
+3358,May 2019,Waitaki,60
+3359,May 2019,Waitomo,52
+3360,May 2019,Wanganui,240
+3361,May 2019,Wellington,770
+3362,May 2019,Western Bay of Plenty,118
+3363,May 2019,Westland,21
+3364,May 2019,Whakatane,175
+3365,May 2019,Whangarei,411
+3366,November 2014,Ashburton,68
+3367,November 2014,Auckland,6341
+3368,November 2014,Buller,22
+3369,November 2014,Carterton,26
+3370,November 2014,Central Hawke's Bay,27
+3371,November 2014,Central Otago,29
+3372,November 2014,Christchurch,1521
+3373,November 2014,Clutha,23
+3374,November 2014,Dunedin,305
+3375,November 2014,Far North,253
+3376,November 2014,Gisborne,222
+3377,November 2014,Gore,35
+3378,November 2014,Grey,21
+3379,November 2014,Hamilton,795
+3380,November 2014,Hastings,380
+3381,November 2014,Hauraki,60
+3382,November 2014,Horowhenua,116
+3383,November 2014,Hurunui,28
+3384,November 2014,Invercargill,168
+3385,November 2014,Kaikoura,16
+3386,November 2014,Kaipara,78
+3387,November 2014,Kapiti Coast,164
+3388,November 2014,Kawerau,39
+3389,November 2014,Lower Hutt,445
+3390,November 2014,Mackenzie,3
+3391,November 2014,Manawatu,47
+3392,November 2014,Marlborough,114
+3393,November 2014,Masterton,84
+3394,November 2014,Matamata-Piako,94
+3395,November 2014,Napier,313
+3396,November 2014,Nelson,217
+3397,November 2014,New Plymouth,193
+3398,November 2014,Opotiki,44
+3399,November 2014,Otorohanga,16
+3400,November 2014,Palmerston North,479
+3401,November 2014,Porirua,233
+3402,November 2014,Queenstown-Lakes,41
+3403,November 2014,Rangitikei,38
+3404,November 2014,Rotorua,402
+3405,November 2014,Ruapehu,35
+3406,November 2014,Selwyn,66
+3407,November 2014,South Taranaki,47
+3408,November 2014,South Waikato,101
+3409,November 2014,South Wairarapa,36
+3410,November 2014,Southland,62
+3411,November 2014,Stratford,26
+3412,November 2014,Tararua,42
+3413,November 2014,Tasman,124
+3414,November 2014,Taupo,178
+3415,November 2014,Tauranga,402
+3416,November 2014,Thames-Coromandel,75
+3417,November 2014,Timaru,94
+3418,November 2014,Upper Hutt,146
+3419,November 2014,Waikato,188
+3420,November 2014,Waimakariri,87
+3421,November 2014,Waimate,11
+3422,November 2014,Waipa,112
+3423,November 2014,Wairoa,32
+3424,November 2014,Waitaki,46
+3425,November 2014,Waitomo,27
+3426,November 2014,Wanganui,168
+3427,November 2014,Wellington,692
+3428,November 2014,Western Bay of Plenty,76
+3429,November 2014,Westland,19
+3430,November 2014,Whakatane,150
+3431,November 2014,Whangarei,315
+3432,November 2015,Ashburton,72
+3433,November 2015,Auckland,6737
+3434,November 2015,Buller,26
+3435,November 2015,Carterton,24
+3436,November 2015,Central Hawke's Bay,35
+3437,November 2015,Central Otago,34
+3438,November 2015,Christchurch,1889
+3439,November 2015,Clutha,35
+3440,November 2015,Dunedin,308
+3441,November 2015,Far North,333
+3442,November 2015,Gisborne,224
+3443,November 2015,Gore,24
+3444,November 2015,Grey,39
+3445,November 2015,Hamilton,889
+3446,November 2015,Hastings,374
+3447,November 2015,Hauraki,55
+3448,November 2015,Horowhenua,111
+3449,November 2015,Hurunui,22
+3450,November 2015,Invercargill,199
+3451,November 2015,Kaikoura,16
+3452,November 2015,Kaipara,67
+3453,November 2015,Kapiti Coast,151
+3454,November 2015,Kawerau,33
+3455,November 2015,Lower Hutt,417
+3456,November 2015,Mackenzie,7
+3457,November 2015,Manawatu,76
+3458,November 2015,Marlborough,125
+3459,November 2015,Masterton,84
+3460,November 2015,Matamata-Piako,115
+3461,November 2015,Napier,334
+3462,November 2015,Nelson,205
+3463,November 2015,New Plymouth,185
+3464,November 2015,Opotiki,44
+3465,November 2015,Otorohanga,18
+3466,November 2015,Palmerston North,439
+3467,November 2015,Porirua,218
+3468,November 2015,Queenstown-Lakes,88
+3469,November 2015,Rangitikei,32
+3470,November 2015,Rotorua,528
+3471,November 2015,Ruapehu,37
+3472,November 2015,Selwyn,90
+3473,November 2015,South Taranaki,58
+3474,November 2015,South Waikato,91
+3475,November 2015,South Wairarapa,24
+3476,November 2015,Southland,40
+3477,November 2015,Stratford,24
+3478,November 2015,Tararua,66
+3479,November 2015,Tasman,165
+3480,November 2015,Taupo,231
+3481,November 2015,Tauranga,473
+3482,November 2015,Thames-Coromandel,85
+3483,November 2015,Timaru,83
+3484,November 2015,Upper Hutt,136
+3485,November 2015,Waikato,246
+3486,November 2015,Waimakariri,106
+3487,November 2015,Waimate,20
+3488,November 2015,Waipa,119
+3489,November 2015,Wairoa,28
+3490,November 2015,Waitaki,67
+3491,November 2015,Waitomo,22
+3492,November 2015,Wanganui,204
+3493,November 2015,Wellington,556
+3494,November 2015,Western Bay of Plenty,112
+3495,November 2015,Westland,21
+3496,November 2015,Whakatane,157
+3497,November 2015,Whangarei,377
+3498,November 2016,Ashburton,94
+3499,November 2016,Auckland,7140
+3500,November 2016,Buller,41
+3501,November 2016,Carterton,20
+3502,November 2016,Central Hawke's Bay,43
+3503,November 2016,Central Otago,38
+3504,November 2016,Christchurch,1539
+3505,November 2016,Clutha,33
+3506,November 2016,Dunedin,304
+3507,November 2016,Far North,302
+3508,November 2016,Gisborne,284
+3509,November 2016,Gore,30
+3510,November 2016,Grey,42
+3511,November 2016,Hamilton,827
+3512,November 2016,Hastings,521
+3513,November 2016,Hauraki,68
+3514,November 2016,Horowhenua,134
+3515,November 2016,Hurunui,22
+3516,November 2016,Invercargill,138
+3517,November 2016,Kaikoura,22
+3518,November 2016,Kaipara,57
+3519,November 2016,Kapiti Coast,175
+3520,November 2016,Kawerau,39
+3521,November 2016,Lower Hutt,384
+3522,November 2016,Mackenzie,2
+3523,November 2016,Manawatu,74
+3524,November 2016,Marlborough,94
+3525,November 2016,Masterton,182
+3526,November 2016,Matamata-Piako,133
+3527,November 2016,Napier,395
+3528,November 2016,Nelson,230
+3529,November 2016,New Plymouth,204
+3530,November 2016,Opotiki,39
+3531,November 2016,Otorohanga,32
+3532,November 2016,Palmerston North,565
+3533,November 2016,Porirua,205
+3534,November 2016,Queenstown-Lakes,85
+3535,November 2016,Rangitikei,41
+3536,November 2016,Rotorua,504
+3537,November 2016,Ruapehu,53
+3538,November 2016,Selwyn,73
+3539,November 2016,South Taranaki,106
+3540,November 2016,South Waikato,87
+3541,November 2016,South Wairarapa,35
+3542,November 2016,Southland,48
+3543,November 2016,Stratford,20
+3544,November 2016,Tararua,75
+3545,November 2016,Tasman,156
+3546,November 2016,Taupo,182
+3547,November 2016,Tauranga,545
+3548,November 2016,Thames-Coromandel,100
+3549,November 2016,Timaru,123
+3550,November 2016,Upper Hutt,144
+3551,November 2016,Waikato,258
+3552,November 2016,Waimakariri,89
+3553,November 2016,Waimate,11
+3554,November 2016,Waipa,99
+3555,November 2016,Wairoa,52
+3556,November 2016,Waitaki,52
+3557,November 2016,Waitomo,28
+3558,November 2016,Wanganui,161
+3559,November 2016,Wellington,549
+3560,November 2016,Western Bay of Plenty,121
+3561,November 2016,Westland,16
+3562,November 2016,Whakatane,164
+3563,November 2016,Whangarei,390
+3564,November 2017,Ashburton,93
+3565,November 2017,Auckland,6486
+3566,November 2017,Buller,56
+3567,November 2017,Carterton,28
+3568,November 2017,Central Hawke's Bay,32
+3569,November 2017,Central Otago,38
+3570,November 2017,Christchurch,1636
+3571,November 2017,Clutha,37
+3572,November 2017,Dunedin,304
+3573,November 2017,Far North,342
+3574,November 2017,Gisborne,301
+3575,November 2017,Gore,27
+3576,November 2017,Grey,23
+3577,November 2017,Hamilton,1053
+3578,November 2017,Hastings,484
+3579,November 2017,Hauraki,71
+3580,November 2017,Horowhenua,164
+3581,November 2017,Hurunui,18
+3582,November 2017,Invercargill,150
+3583,November 2017,Kaikoura,10
+3584,November 2017,Kaipara,57
+3585,November 2017,Kapiti Coast,179
+3586,November 2017,Kawerau,24
+3587,November 2017,Lower Hutt,374
+3588,November 2017,Mackenzie,11
+3589,November 2017,Manawatu,104
+3590,November 2017,Marlborough,109
+3591,November 2017,Masterton,117
+3592,November 2017,Matamata-Piako,145
+3593,November 2017,Napier,417
+3594,November 2017,Nelson,178
+3595,November 2017,New Plymouth,239
+3596,November 2017,Opotiki,55
+3597,November 2017,Otorohanga,25
+3598,November 2017,Palmerston North,503
+3599,November 2017,Porirua,223
+3600,November 2017,Queenstown-Lakes,77
+3601,November 2017,Rangitikei,39
+3602,November 2017,Rotorua,417
+3603,November 2017,Ruapehu,57
+3604,November 2017,Selwyn,99
+3605,November 2017,South Taranaki,85
+3606,November 2017,South Waikato,82
+3607,November 2017,South Wairarapa,35
+3608,November 2017,Southland,57
+3609,November 2017,Stratford,26
+3610,November 2017,Tararua,46
+3611,November 2017,Tasman,101
+3612,November 2017,Taupo,151
+3613,November 2017,Tauranga,556
+3614,November 2017,Thames-Coromandel,123
+3615,November 2017,Timaru,116
+3616,November 2017,Upper Hutt,140
+3617,November 2017,Waikato,259
+3618,November 2017,Waimakariri,130
+3619,November 2017,Waimate,5
+3620,November 2017,Waipa,155
+3621,November 2017,Wairoa,40
+3622,November 2017,Waitaki,52
+3623,November 2017,Waitomo,34
+3624,November 2017,Wanganui,208
+3625,November 2017,Wellington,610
+3626,November 2017,Western Bay of Plenty,133
+3627,November 2017,Westland,13
+3628,November 2017,Whakatane,169
+3629,November 2017,Whangarei,472
+3630,November 2018,Ashburton,80
+3631,November 2018,Auckland,6294
+3632,November 2018,Buller,35
+3633,November 2018,Carterton,16
+3634,November 2018,Central Hawke's Bay,34
+3635,November 2018,Central Otago,29
+3636,November 2018,Christchurch,2471
+3637,November 2018,Clutha,26
+3638,November 2018,Dunedin,264
+3639,November 2018,Far North,327
+3640,November 2018,Gisborne,196
+3641,November 2018,Gore,24
+3642,November 2018,Grey,37
+3643,November 2018,Hamilton,840
+3644,November 2018,Hastings,325
+3645,November 2018,Hauraki,97
+3646,November 2018,Horowhenua,142
+3647,November 2018,Hurunui,21
+3648,November 2018,Invercargill,153
+3649,November 2018,Kaikoura,13
+3650,November 2018,Kaipara,47
+3651,November 2018,Kapiti Coast,179
+3652,November 2018,Kawerau,60
+3653,November 2018,Lower Hutt,462
+3654,November 2018,Mackenzie,6
+3655,November 2018,Manawatu,81
+3656,November 2018,Marlborough,148
+3657,November 2018,Masterton,90
+3658,November 2018,Matamata-Piako,113
+3659,November 2018,Napier,381
+3660,November 2018,Nelson,165
+3661,November 2018,New Plymouth,239
+3662,November 2018,Opotiki,41
+3663,November 2018,Otorohanga,35
+3664,November 2018,Palmerston North,430
+3665,November 2018,Porirua,237
+3666,November 2018,Queenstown-Lakes,73
+3667,November 2018,Rangitikei,39
+3668,November 2018,Rotorua,434
+3669,November 2018,Ruapehu,56
+3670,November 2018,Selwyn,65
+3671,November 2018,South Taranaki,78
+3672,November 2018,South Waikato,108
+3673,November 2018,South Wairarapa,24
+3674,November 2018,Southland,55
+3675,November 2018,Stratford,34
+3676,November 2018,Tararua,35
+3677,November 2018,Tasman,93
+3678,November 2018,Taupo,191
+3679,November 2018,Tauranga,526
+3680,November 2018,Thames-Coromandel,111
+3681,November 2018,Timaru,152
+3682,November 2018,Upper Hutt,118
+3683,November 2018,Waikato,259
+3684,November 2018,Waimakariri,123
+3685,November 2018,Waimate,12
+3686,November 2018,Waipa,110
+3687,November 2018,Wairoa,47
+3688,November 2018,Waitaki,54
+3689,November 2018,Waitomo,71
+3690,November 2018,Wanganui,248
+3691,November 2018,Wellington,696
+3692,November 2018,Western Bay of Plenty,155
+3693,November 2018,Westland,28
+3694,November 2018,Whakatane,172
+3695,November 2018,Whangarei,332
+3696,November 2019,Ashburton,84
+3697,November 2019,Auckland,7286
+3698,November 2019,Buller,35
+3699,November 2019,Carterton,10
+3700,November 2019,Central Hawke's Bay,37
+3701,November 2019,Central Otago,43
+3702,November 2019,Christchurch,2299
+3703,November 2019,Clutha,32
+3704,November 2019,Dunedin,309
+3705,November 2019,Far North,341
+3706,November 2019,Gisborne,317
+3707,November 2019,Gore,17
+3708,November 2019,Grey,63
+3709,November 2019,Hamilton,1222
+3710,November 2019,Hastings,495
+3711,November 2019,Hauraki,110
+3712,November 2019,Horowhenua,194
+3713,November 2019,Hurunui,38
+3714,November 2019,Invercargill,158
+3715,November 2019,Kaikoura,19
+3716,November 2019,Kaipara,76
+3717,November 2019,Kapiti Coast,183
+3718,November 2019,Kawerau,34
+3719,November 2019,Lower Hutt,499
+3720,November 2019,Mackenzie,9
+3721,November 2019,Manawatu,125
+3722,November 2019,Marlborough,159
+3723,November 2019,Masterton,121
+3724,November 2019,Matamata-Piako,176
+3725,November 2019,Napier,506
+3726,November 2019,Nelson,209
+3727,November 2019,New Plymouth,265
+3728,November 2019,Opotiki,49
+3729,November 2019,Otorohanga,20
+3730,November 2019,Palmerston North,617
+3731,November 2019,Porirua,234
+3732,November 2019,Queenstown-Lakes,93
+3733,November 2019,Rangitikei,40
+3734,November 2019,Rotorua,643
+3735,November 2019,Ruapehu,58
+3736,November 2019,Selwyn,103
+3737,November 2019,South Taranaki,84
+3738,November 2019,South Waikato,141
+3739,November 2019,South Wairarapa,21
+3740,November 2019,Southland,43
+3741,November 2019,Stratford,55
+3742,November 2019,Tararua,46
+3743,November 2019,Tasman,114
+3744,November 2019,Taupo,235
+3745,November 2019,Tauranga,656
+3746,November 2019,Thames-Coromandel,112
+3747,November 2019,Timaru,141
+3748,November 2019,Upper Hutt,146
+3749,November 2019,Waikato,288
+3750,November 2019,Waimakariri,152
+3751,November 2019,Waimate,29
+3752,November 2019,Waipa,192
+3753,November 2019,Wairoa,62
+3754,November 2019,Waitaki,75
+3755,November 2019,Waitomo,48
+3756,November 2019,Wanganui,201
+3757,November 2019,Wellington,891
+3758,November 2019,Western Bay of Plenty,178
+3759,November 2019,Westland,35
+3760,November 2019,Whakatane,194
+3761,November 2019,Whangarei,382
+3762,October 2014,Ashburton,61
+3763,October 2014,Auckland,6135
+3764,October 2014,Buller,25
+3765,October 2014,Carterton,17
+3766,October 2014,Central Hawke's Bay,27
+3767,October 2014,Central Otago,22
+3768,October 2014,Christchurch,1570
+3769,October 2014,Clutha,34
+3770,October 2014,Dunedin,315
+3771,October 2014,Far North,242
+3772,October 2014,Gisborne,210
+3773,October 2014,Gore,21
+3774,October 2014,Grey,20
+3775,October 2014,Hamilton,768
+3776,October 2014,Hastings,329
+3777,October 2014,Hauraki,70
+3778,October 2014,Horowhenua,118
+3779,October 2014,Hurunui,21
+3780,October 2014,Invercargill,157
+3781,October 2014,Kaikoura,14
+3782,October 2014,Kaipara,48
+3783,October 2014,Kapiti Coast,126
+3784,October 2014,Kawerau,56
+3785,October 2014,Lower Hutt,464
+3786,October 2014,Mackenzie,3
+3787,October 2014,Manawatu,80
+3788,October 2014,Marlborough,88
+3789,October 2014,Masterton,126
+3790,October 2014,Matamata-Piako,87
+3791,October 2014,Napier,336
+3792,October 2014,Nelson,170
+3793,October 2014,New Plymouth,170
+3794,October 2014,Opotiki,37
+3795,October 2014,Otorohanga,20
+3796,October 2014,Palmerston North,451
+3797,October 2014,Porirua,237
+3798,October 2014,Queenstown-Lakes,64
+3799,October 2014,Rangitikei,21
+3800,October 2014,Rotorua,408
+3801,October 2014,Ruapehu,43
+3802,October 2014,Selwyn,60
+3803,October 2014,South Taranaki,69
+3804,October 2014,South Waikato,88
+3805,October 2014,South Wairarapa,28
+3806,October 2014,Southland,46
+3807,October 2014,Stratford,23
+3808,October 2014,Tararua,35
+3809,October 2014,Tasman,101
+3810,October 2014,Taupo,198
+3811,October 2014,Tauranga,408
+3812,October 2014,Thames-Coromandel,65
+3813,October 2014,Timaru,90
+3814,October 2014,Upper Hutt,109
+3815,October 2014,Waikato,163
+3816,October 2014,Waimakariri,68
+3817,October 2014,Waimate,8
+3818,October 2014,Waipa,92
+3819,October 2014,Wairoa,28
+3820,October 2014,Waitaki,47
+3821,October 2014,Waitomo,24
+3822,October 2014,Wanganui,166
+3823,October 2014,Wellington,655
+3824,October 2014,Western Bay of Plenty,101
+3825,October 2014,Westland,14
+3826,October 2014,Whakatane,160
+3827,October 2014,Whangarei,352
+3828,October 2015,Ashburton,71
+3829,October 2015,Auckland,6072
+3830,October 2015,Buller,30
+3831,October 2015,Carterton,24
+3832,October 2015,Central Hawke's Bay,31
+3833,October 2015,Central Otago,29
+3834,October 2015,Christchurch,1807
+3835,October 2015,Clutha,42
+3836,October 2015,Dunedin,320
+3837,October 2015,Far North,334
+3838,October 2015,Gisborne,202
+3839,October 2015,Gore,31
+3840,October 2015,Grey,34
+3841,October 2015,Hamilton,909
+3842,October 2015,Hastings,417
+3843,October 2015,Hauraki,71
+3844,October 2015,Horowhenua,123
+3845,October 2015,Hurunui,20
+3846,October 2015,Invercargill,143
+3847,October 2015,Kaikoura,23
+3848,October 2015,Kaipara,58
+3849,October 2015,Kapiti Coast,134
+3850,October 2015,Kawerau,33
+3851,October 2015,Lower Hutt,508
+3852,October 2015,Mackenzie,12
+3853,October 2015,Manawatu,79
+3854,October 2015,Marlborough,120
+3855,October 2015,Masterton,94
+3856,October 2015,Matamata-Piako,125
+3857,October 2015,Napier,381
+3858,October 2015,Nelson,258
+3859,October 2015,New Plymouth,157
+3860,October 2015,Opotiki,29
+3861,October 2015,Otorohanga,10
+3862,October 2015,Palmerston North,544
+3863,October 2015,Porirua,218
+3864,October 2015,Queenstown-Lakes,65
+3865,October 2015,Rangitikei,35
+3866,October 2015,Rotorua,500
+3867,October 2015,Ruapehu,26
+3868,October 2015,Selwyn,52
+3869,October 2015,South Taranaki,85
+3870,October 2015,South Waikato,89
+3871,October 2015,South Wairarapa,19
+3872,October 2015,Southland,33
+3873,October 2015,Stratford,29
+3874,October 2015,Tararua,48
+3875,October 2015,Tasman,129
+3876,October 2015,Taupo,255
+3877,October 2015,Tauranga,523
+3878,October 2015,Thames-Coromandel,127
+3879,October 2015,Timaru,93
+3880,October 2015,Upper Hutt,132
+3881,October 2015,Waikato,253
+3882,October 2015,Waimakariri,92
+3883,October 2015,Waimate,7
+3884,October 2015,Waipa,139
+3885,October 2015,Wairoa,37
+3886,October 2015,Waitaki,42
+3887,October 2015,Waitomo,26
+3888,October 2015,Wanganui,170
+3889,October 2015,Wellington,591
+3890,October 2015,Western Bay of Plenty,114
+3891,October 2015,Westland,36
+3892,October 2015,Whakatane,141
+3893,October 2015,Whangarei,401
+3894,October 2016,Ashburton,105
+3895,October 2016,Auckland,6804
+3896,October 2016,Buller,41
+3897,October 2016,Carterton,20
+3898,October 2016,Central Hawke's Bay,49
+3899,October 2016,Central Otago,27
+3900,October 2016,Christchurch,1582
+3901,October 2016,Clutha,36
+3902,October 2016,Dunedin,240
+3903,October 2016,Far North,274
+3904,October 2016,Gisborne,319
+3905,October 2016,Gore,31
+3906,October 2016,Grey,44
+3907,October 2016,Hamilton,839
+3908,October 2016,Hastings,529
+3909,October 2016,Hauraki,88
+3910,October 2016,Horowhenua,135
+3911,October 2016,Hurunui,20
+3912,October 2016,Invercargill,149
+3913,October 2016,Kaikoura,14
+3914,October 2016,Kaipara,51
+3915,October 2016,Kapiti Coast,182
+3916,October 2016,Kawerau,35
+3917,October 2016,Lower Hutt,365
+3918,October 2016,Mackenzie,4
+3919,October 2016,Manawatu,71
+3920,October 2016,Marlborough,117
+3921,October 2016,Masterton,109
+3922,October 2016,Matamata-Piako,118
+3923,October 2016,Napier,407
+3924,October 2016,Nelson,255
+3925,October 2016,New Plymouth,254
+3926,October 2016,Opotiki,44
+3927,October 2016,Otorohanga,17
+3928,October 2016,Palmerston North,609
+3929,October 2016,Porirua,161
+3930,October 2016,Queenstown-Lakes,71
+3931,October 2016,Rangitikei,43
+3932,October 2016,Rotorua,516
+3933,October 2016,Ruapehu,65
+3934,October 2016,Selwyn,66
+3935,October 2016,South Taranaki,83
+3936,October 2016,South Waikato,92
+3937,October 2016,South Wairarapa,27
+3938,October 2016,Southland,43
+3939,October 2016,Stratford,21
+3940,October 2016,Tararua,80
+3941,October 2016,Tasman,140
+3942,October 2016,Taupo,197
+3943,October 2016,Tauranga,532
+3944,October 2016,Thames-Coromandel,132
+3945,October 2016,Timaru,95
+3946,October 2016,Upper Hutt,129
+3947,October 2016,Waikato,215
+3948,October 2016,Waimakariri,85
+3949,October 2016,Waimate,17
+3950,October 2016,Waipa,116
+3951,October 2016,Wairoa,39
+3952,October 2016,Waitaki,44
+3953,October 2016,Waitomo,33
+3954,October 2016,Wanganui,190
+3955,October 2016,Wellington,565
+3956,October 2016,Western Bay of Plenty,82
+3957,October 2016,Westland,21
+3958,October 2016,Whakatane,175
+3959,October 2016,Whangarei,352
+3960,October 2017,Ashburton,83
+3961,October 2017,Auckland,6171
+3962,October 2017,Buller,42
+3963,October 2017,Carterton,19
+3964,October 2017,Central Hawke's Bay,29
+3965,October 2017,Central Otago,28
+3966,October 2017,Christchurch,1625
+3967,October 2017,Clutha,67
+3968,October 2017,Dunedin,300
+3969,October 2017,Far North,349
+3970,October 2017,Gisborne,292
+3971,October 2017,Gore,41
+3972,October 2017,Grey,30
+3973,October 2017,Hamilton,930
+3974,October 2017,Hastings,474
+3975,October 2017,Hauraki,94
+3976,October 2017,Horowhenua,139
+3977,October 2017,Hurunui,26
+3978,October 2017,Invercargill,174
+3979,October 2017,Kaikoura,15
+3980,October 2017,Kaipara,95
+3981,October 2017,Kapiti Coast,144
+3982,October 2017,Kawerau,26
+3983,October 2017,Lower Hutt,400
+3984,October 2017,Mackenzie,11
+3985,October 2017,Manawatu,87
+3986,October 2017,Marlborough,104
+3987,October 2017,Masterton,98
+3988,October 2017,Matamata-Piako,138
+3989,October 2017,Napier,378
+3990,October 2017,Nelson,157
+3991,October 2017,New Plymouth,206
+3992,October 2017,Opotiki,38
+3993,October 2017,Otorohanga,20
+3994,October 2017,Palmerston North,627
+3995,October 2017,Porirua,203
+3996,October 2017,Queenstown-Lakes,62
+3997,October 2017,Rangitikei,29
+3998,October 2017,Rotorua,373
+3999,October 2017,Ruapehu,38
+4000,October 2017,Selwyn,68
+4001,October 2017,South Taranaki,84
+4002,October 2017,South Waikato,79
+4003,October 2017,South Wairarapa,29
+4004,October 2017,Southland,58
+4005,October 2017,Stratford,36
+4006,October 2017,Tararua,80
+4007,October 2017,Tasman,95
+4008,October 2017,Taupo,137
+4009,October 2017,Tauranga,590
+4010,October 2017,Thames-Coromandel,97
+4011,October 2017,Timaru,95
+4012,October 2017,Upper Hutt,149
+4013,October 2017,Waikato,282
+4014,October 2017,Waimakariri,130
+4015,October 2017,Waimate,17
+4016,October 2017,Waipa,116
+4017,October 2017,Wairoa,48
+4018,October 2017,Waitaki,38
+4019,October 2017,Waitomo,38
+4020,October 2017,Wanganui,233
+4021,October 2017,Wellington,630
+4022,October 2017,Western Bay of Plenty,109
+4023,October 2017,Westland,44
+4024,October 2017,Whakatane,178
+4025,October 2017,Whangarei,480
+4026,October 2018,Ashburton,108
+4027,October 2018,Auckland,6191
+4028,October 2018,Buller,44
+4029,October 2018,Carterton,19
+4030,October 2018,Central Hawke's Bay,35
+4031,October 2018,Central Otago,20
+4032,October 2018,Christchurch,2273
+4033,October 2018,Clutha,25
+4034,October 2018,Dunedin,236
+4035,October 2018,Far North,362
+4036,October 2018,Gisborne,241
+4037,October 2018,Gore,26
+4038,October 2018,Grey,40
+4039,October 2018,Hamilton,816
+4040,October 2018,Hastings,433
+4041,October 2018,Hauraki,90
+4042,October 2018,Horowhenua,143
+4043,October 2018,Hurunui,37
+4044,October 2018,Invercargill,133
+4045,October 2018,Kaikoura,19
+4046,October 2018,Kaipara,60
+4047,October 2018,Kapiti Coast,176
+4048,October 2018,Kawerau,25
+4049,October 2018,Lower Hutt,499
+4050,October 2018,Mackenzie,6
+4051,October 2018,Manawatu,73
+4052,October 2018,Marlborough,111
+4053,October 2018,Masterton,68
+4054,October 2018,Matamata-Piako,148
+4055,October 2018,Napier,436
+4056,October 2018,Nelson,150
+4057,October 2018,New Plymouth,222
+4058,October 2018,Opotiki,54
+4059,October 2018,Otorohanga,32
+4060,October 2018,Palmerston North,412
+4061,October 2018,Porirua,223
+4062,October 2018,Queenstown-Lakes,78
+4063,October 2018,Rangitikei,45
+4064,October 2018,Rotorua,442
+4065,October 2018,Ruapehu,55
+4066,October 2018,Selwyn,104
+4067,October 2018,South Taranaki,80
+4068,October 2018,South Waikato,75
+4069,October 2018,South Wairarapa,40
+4070,October 2018,Southland,59
+4071,October 2018,Stratford,25
+4072,October 2018,Tararua,59
+4073,October 2018,Tasman,95
+4074,October 2018,Taupo,235
+4075,October 2018,Tauranga,575
+4076,October 2018,Thames-Coromandel,185
+4077,October 2018,Timaru,123
+4078,October 2018,Upper Hutt,130
+4079,October 2018,Waikato,228
+4080,October 2018,Waimakariri,147
+4081,October 2018,Waimate,14
+4082,October 2018,Waipa,111
+4083,October 2018,Wairoa,45
+4084,October 2018,Waitaki,52
+4085,October 2018,Waitomo,44
+4086,October 2018,Wanganui,203
+4087,October 2018,Wellington,679
+4088,October 2018,Western Bay of Plenty,148
+4089,October 2018,Westland,22
+4090,October 2018,Whakatane,159
+4091,October 2018,Whangarei,387
+4092,October 2019,Ashburton,79
+4093,October 2019,Auckland,6890
+4094,October 2019,Buller,24
+4095,October 2019,Carterton,10
+4096,October 2019,Central Hawke's Bay,29
+4097,October 2019,Central Otago,30
+4098,October 2019,Christchurch,2017
+4099,October 2019,Clutha,38
+4100,October 2019,Dunedin,283
+4101,October 2019,Far North,340
+4102,October 2019,Gisborne,255
+4103,October 2019,Gore,28
+4104,October 2019,Grey,44
+4105,October 2019,Hamilton,1232
+4106,October 2019,Hastings,461
+4107,October 2019,Hauraki,72
+4108,October 2019,Horowhenua,187
+4109,October 2019,Hurunui,46
+4110,October 2019,Invercargill,150
+4111,October 2019,Kaikoura,14
+4112,October 2019,Kaipara,64
+4113,October 2019,Kapiti Coast,192
+4114,October 2019,Kawerau,36
+4115,October 2019,Lower Hutt,581
+4116,October 2019,Mackenzie,11
+4117,October 2019,Manawatu,92
+4118,October 2019,Marlborough,155
+4119,October 2019,Masterton,107
+4120,October 2019,Matamata-Piako,150
+4121,October 2019,Napier,486
+4122,October 2019,Nelson,233
+4123,October 2019,New Plymouth,301
+4124,October 2019,Opotiki,80
+4125,October 2019,Otorohanga,30
+4126,October 2019,Palmerston North,698
+4127,October 2019,Porirua,253
+4128,October 2019,Queenstown-Lakes,100
+4129,October 2019,Rangitikei,43
+4130,October 2019,Rotorua,516
+4131,October 2019,Ruapehu,59
+4132,October 2019,Selwyn,128
+4133,October 2019,South Taranaki,102
+4134,October 2019,South Waikato,105
+4135,October 2019,South Wairarapa,28
+4136,October 2019,Southland,55
+4137,October 2019,Stratford,40
+4138,October 2019,Tararua,60
+4139,October 2019,Tasman,131
+4140,October 2019,Taupo,220
+4141,October 2019,Tauranga,699
+4142,October 2019,Thames-Coromandel,155
+4143,October 2019,Timaru,128
+4144,October 2019,Upper Hutt,155
+4145,October 2019,Waikato,351
+4146,October 2019,Waimakariri,173
+4147,October 2019,Waimate,19
+4148,October 2019,Waipa,190
+4149,October 2019,Wairoa,43
+4150,October 2019,Waitaki,69
+4151,October 2019,Waitomo,41
+4152,October 2019,Wanganui,241
+4153,October 2019,Wellington,965
+4154,October 2019,Western Bay of Plenty,168
+4155,October 2019,Westland,14
+4156,October 2019,Whakatane,210
+4157,October 2019,Whangarei,431
+4158,September 2014,Ashburton,44
+4159,September 2014,Auckland,6455
+4160,September 2014,Buller,29
+4161,September 2014,Carterton,38
+4162,September 2014,Central Hawke's Bay,30
+4163,September 2014,Central Otago,23
+4164,September 2014,Christchurch,1350
+4165,September 2014,Clutha,35
+4166,September 2014,Dunedin,310
+4167,September 2014,Far North,229
+4168,September 2014,Gisborne,197
+4169,September 2014,Gore,31
+4170,September 2014,Grey,27
+4171,September 2014,Hamilton,806
+4172,September 2014,Hastings,310
+4173,September 2014,Hauraki,62
+4174,September 2014,Horowhenua,117
+4175,September 2014,Hurunui,24
+4176,September 2014,Invercargill,162
+4177,September 2014,Kaikoura,13
+4178,September 2014,Kaipara,35
+4179,September 2014,Kapiti Coast,151
+4180,September 2014,Kawerau,40
+4181,September 2014,Lower Hutt,424
+4182,September 2014,Mackenzie,8
+4183,September 2014,Manawatu,64
+4184,September 2014,Marlborough,94
+4185,September 2014,Masterton,115
+4186,September 2014,Matamata-Piako,114
+4187,September 2014,Napier,244
+4188,September 2014,Nelson,195
+4189,September 2014,New Plymouth,190
+4190,September 2014,Opotiki,39
+4191,September 2014,Otorohanga,24
+4192,September 2014,Palmerston North,450
+4193,September 2014,Porirua,178
+4194,September 2014,Queenstown-Lakes,71
+4195,September 2014,Rangitikei,50
+4196,September 2014,Rotorua,405
+4197,September 2014,Ruapehu,60
+4198,September 2014,Selwyn,58
+4199,September 2014,South Taranaki,69
+4200,September 2014,South Waikato,73
+4201,September 2014,South Wairarapa,46
+4202,September 2014,Southland,54
+4203,September 2014,Stratford,12
+4204,September 2014,Tararua,69
+4205,September 2014,Tasman,91
+4206,September 2014,Taupo,165
+4207,September 2014,Tauranga,369
+4208,September 2014,Thames-Coromandel,85
+4209,September 2014,Timaru,79
+4210,September 2014,Upper Hutt,141
+4211,September 2014,Waikato,178
+4212,September 2014,Waimakariri,80
+4213,September 2014,Waimate,15
+4214,September 2014,Waipa,96
+4215,September 2014,Wairoa,40
+4216,September 2014,Waitaki,31
+4217,September 2014,Waitomo,40
+4218,September 2014,Wanganui,174
+4219,September 2014,Wellington,659
+4220,September 2014,Western Bay of Plenty,117
+4221,September 2014,Westland,10
+4222,September 2014,Whakatane,165
+4223,September 2014,Whangarei,349
+4224,September 2015,Ashburton,83
+4225,September 2015,Auckland,5920
+4226,September 2015,Buller,29
+4227,September 2015,Carterton,27
+4228,September 2015,Central Hawke's Bay,31
+4229,September 2015,Central Otago,23
+4230,September 2015,Christchurch,1702
+4231,September 2015,Clutha,38
+4232,September 2015,Dunedin,265
+4233,September 2015,Far North,267
+4234,September 2015,Gisborne,218
+4235,September 2015,Gore,24
+4236,September 2015,Grey,36
+4237,September 2015,Hamilton,838
+4238,September 2015,Hastings,307
+4239,September 2015,Hauraki,49
+4240,September 2015,Horowhenua,84
+4241,September 2015,Hurunui,20
+4242,September 2015,Invercargill,119
+4243,September 2015,Kaikoura,6
+4244,September 2015,Kaipara,48
+4245,September 2015,Kapiti Coast,130
+4246,September 2015,Kawerau,45
+4247,September 2015,Lower Hutt,434
+4248,September 2015,Mackenzie,4
+4249,September 2015,Manawatu,82
+4250,September 2015,Marlborough,126
+4251,September 2015,Masterton,96
+4252,September 2015,Matamata-Piako,110
+4253,September 2015,Napier,285
+4254,September 2015,Nelson,167
+4255,September 2015,New Plymouth,148
+4256,September 2015,Opotiki,46
+4257,September 2015,Otorohanga,26
+4258,September 2015,Palmerston North,427
+4259,September 2015,Porirua,215
+4260,September 2015,Queenstown-Lakes,81
+4261,September 2015,Rangitikei,52
+4262,September 2015,Rotorua,466
+4263,September 2015,Ruapehu,43
+4264,September 2015,Selwyn,59
+4265,September 2015,South Taranaki,65
+4266,September 2015,South Waikato,99
+4267,September 2015,South Wairarapa,27
+4268,September 2015,Southland,45
+4269,September 2015,Stratford,29
+4270,September 2015,Tararua,45
+4271,September 2015,Tasman,96
+4272,September 2015,Taupo,238
+4273,September 2015,Tauranga,428
+4274,September 2015,Thames-Coromandel,96
+4275,September 2015,Timaru,75
+4276,September 2015,Upper Hutt,116
+4277,September 2015,Waikato,256
+4278,September 2015,Waimakariri,75
+4279,September 2015,Waimate,8
+4280,September 2015,Waipa,161
+4281,September 2015,Wairoa,28
+4282,September 2015,Waitaki,56
+4283,September 2015,Waitomo,31
+4284,September 2015,Wanganui,144
+4285,September 2015,Wellington,646
+4286,September 2015,Western Bay of Plenty,118
+4287,September 2015,Westland,24
+4288,September 2015,Whakatane,162
+4289,September 2015,Whangarei,383
+4290,September 2016,Ashburton,91
+4291,September 2016,Auckland,6767
+4292,September 2016,Buller,28
+4293,September 2016,Carterton,26
+4294,September 2016,Central Hawke's Bay,51
+4295,September 2016,Central Otago,23
+4296,September 2016,Christchurch,1662
+4297,September 2016,Clutha,44
+4298,September 2016,Dunedin,290
+4299,September 2016,Far North,346
+4300,September 2016,Gisborne,226
+4301,September 2016,Gore,30
+4302,September 2016,Grey,19
+4303,September 2016,Hamilton,836
+4304,September 2016,Hastings,521
+4305,September 2016,Hauraki,71
+4306,September 2016,Horowhenua,111
+4307,September 2016,Hurunui,20
+4308,September 2016,Invercargill,135
+4309,September 2016,Kaikoura,5
+4310,September 2016,Kaipara,65
+4311,September 2016,Kapiti Coast,146
+4312,September 2016,Kawerau,46
+4313,September 2016,Lower Hutt,411
+4314,September 2016,Mackenzie,7
+4315,September 2016,Manawatu,57
+4316,September 2016,Marlborough,126
+4317,September 2016,Masterton,78
+4318,September 2016,Matamata-Piako,155
+4319,September 2016,Napier,418
+4320,September 2016,Nelson,223
+4321,September 2016,New Plymouth,297
+4322,September 2016,Opotiki,41
+4323,September 2016,Otorohanga,28
+4324,September 2016,Palmerston North,461
+4325,September 2016,Porirua,169
+4326,September 2016,Queenstown-Lakes,50
+4327,September 2016,Rangitikei,37
+4328,September 2016,Rotorua,461
+4329,September 2016,Ruapehu,43
+4330,September 2016,Selwyn,61
+4331,September 2016,South Taranaki,79
+4332,September 2016,South Waikato,93
+4333,September 2016,South Wairarapa,19
+4334,September 2016,Southland,57
+4335,September 2016,Stratford,31
+4336,September 2016,Tararua,75
+4337,September 2016,Tasman,116
+4338,September 2016,Taupo,212
+4339,September 2016,Tauranga,451
+4340,September 2016,Thames-Coromandel,110
+4341,September 2016,Timaru,95
+4342,September 2016,Upper Hutt,119
+4343,September 2016,Waikato,232
+4344,September 2016,Waimakariri,106
+4345,September 2016,Waimate,8
+4346,September 2016,Waipa,155
+4347,September 2016,Wairoa,42
+4348,September 2016,Waitaki,32
+4349,September 2016,Waitomo,22
+4350,September 2016,Wanganui,154
+4351,September 2016,Wellington,608
+4352,September 2016,Western Bay of Plenty,118
+4353,September 2016,Westland,27
+4354,September 2016,Whakatane,155
+4355,September 2016,Whangarei,341
+4356,September 2017,Ashburton,99
+4357,September 2017,Auckland,6598
+4358,September 2017,Buller,29
+4359,September 2017,Carterton,30
+4360,September 2017,Central Hawke's Bay,22
+4361,September 2017,Central Otago,22
+4362,September 2017,Christchurch,1622
+4363,September 2017,Clutha,39
+4364,September 2017,Dunedin,258
+4365,September 2017,Far North,255
+4366,September 2017,Gisborne,256
+4367,September 2017,Gore,26
+4368,September 2017,Grey,41
+4369,September 2017,Hamilton,982
+4370,September 2017,Hastings,479
+4371,September 2017,Hauraki,92
+4372,September 2017,Horowhenua,166
+4373,September 2017,Hurunui,28
+4374,September 2017,Invercargill,128
+4375,September 2017,Kaikoura,8
+4376,September 2017,Kaipara,41
+4377,September 2017,Kapiti Coast,153
+4378,September 2017,Kawerau,39
+4379,September 2017,Lower Hutt,433
+4380,September 2017,Mackenzie,10
+4381,September 2017,Manawatu,93
+4382,September 2017,Marlborough,85
+4383,September 2017,Masterton,162
+4384,September 2017,Matamata-Piako,142
+4385,September 2017,Napier,361
+4386,September 2017,Nelson,148
+4387,September 2017,New Plymouth,208
+4388,September 2017,Opotiki,43
+4389,September 2017,Otorohanga,24
+4390,September 2017,Palmerston North,592
+4391,September 2017,Porirua,225
+4392,September 2017,Queenstown-Lakes,72
+4393,September 2017,Rangitikei,38
+4394,September 2017,Rotorua,414
+4395,September 2017,Ruapehu,52
+4396,September 2017,Selwyn,67
+4397,September 2017,South Taranaki,53
+4398,September 2017,South Waikato,75
+4399,September 2017,South Wairarapa,36
+4400,September 2017,Southland,44
+4401,September 2017,Stratford,16
+4402,September 2017,Tararua,67
+4403,September 2017,Tasman,139
+4404,September 2017,Taupo,159
+4405,September 2017,Tauranga,480
+4406,September 2017,Thames-Coromandel,105
+4407,September 2017,Timaru,103
+4408,September 2017,Upper Hutt,121
+4409,September 2017,Waikato,269
+4410,September 2017,Waimakariri,131
+4411,September 2017,Waimate,9
+4412,September 2017,Waipa,123
+4413,September 2017,Wairoa,37
+4414,September 2017,Waitaki,42
+4415,September 2017,Waitomo,43
+4416,September 2017,Wanganui,240
+4417,September 2017,Wellington,701
+4418,September 2017,Western Bay of Plenty,109
+4419,September 2017,Westland,28
+4420,September 2017,Whakatane,170
+4421,September 2017,Whangarei,467
+4422,September 2018,Ashburton,111
+4423,September 2018,Auckland,6182
+4424,September 2018,Buller,27
+4425,September 2018,Carterton,15
+4426,September 2018,Central Hawke's Bay,25
+4427,September 2018,Central Otago,31
+4428,September 2018,Christchurch,1987
+4429,September 2018,Clutha,28
+4430,September 2018,Dunedin,281
+4431,September 2018,Far North,276
+4432,September 2018,Gisborne,190
+4433,September 2018,Gore,26
+4434,September 2018,Grey,41
+4435,September 2018,Hamilton,830
+4436,September 2018,Hastings,361
+4437,September 2018,Hauraki,71
+4438,September 2018,Horowhenua,162
+4439,September 2018,Hurunui,29
+4440,September 2018,Invercargill,200
+4441,September 2018,Kaikoura,5
+4442,September 2018,Kaipara,62
+4443,September 2018,Kapiti Coast,132
+4444,September 2018,Kawerau,21
+4445,September 2018,Lower Hutt,397
+4446,September 2018,Mackenzie,6
+4447,September 2018,Manawatu,75
+4448,September 2018,Marlborough,119
+4449,September 2018,Masterton,92
+4450,September 2018,Matamata-Piako,135
+4451,September 2018,Napier,366
+4452,September 2018,Nelson,187
+4453,September 2018,New Plymouth,184
+4454,September 2018,Opotiki,50
+4455,September 2018,Otorohanga,45
+4456,September 2018,Palmerston North,388
+4457,September 2018,Porirua,209
+4458,September 2018,Queenstown-Lakes,88
+4459,September 2018,Rangitikei,28
+4460,September 2018,Rotorua,439
+4461,September 2018,Ruapehu,50
+4462,September 2018,Selwyn,79
+4463,September 2018,South Taranaki,65
+4464,September 2018,South Waikato,84
+4465,September 2018,South Wairarapa,25
+4466,September 2018,Southland,49
+4467,September 2018,Stratford,31
+4468,September 2018,Tararua,46
+4469,September 2018,Tasman,80
+4470,September 2018,Taupo,153
+4471,September 2018,Tauranga,510
+4472,September 2018,Thames-Coromandel,115
+4473,September 2018,Timaru,101
+4474,September 2018,Upper Hutt,115
+4475,September 2018,Waikato,219
+4476,September 2018,Waimakariri,120
+4477,September 2018,Waimate,15
+4478,September 2018,Waipa,115
+4479,September 2018,Wairoa,46
+4480,September 2018,Waitaki,45
+4481,September 2018,Waitomo,30
+4482,September 2018,Wanganui,187
+4483,September 2018,Wellington,597
+4484,September 2018,Western Bay of Plenty,129
+4485,September 2018,Westland,10
+4486,September 2018,Whakatane,161
+4487,September 2018,Whangarei,399
+4488,September 2019,Ashburton,86
+4489,September 2019,Auckland,6564
+4490,September 2019,Buller,22
+4491,September 2019,Carterton,8
+4492,September 2019,Central Hawke's Bay,38
+4493,September 2019,Central Otago,35
+4494,September 2019,Christchurch,1895
+4495,September 2019,Clutha,26
+4496,September 2019,Dunedin,325
+4497,September 2019,Far North,321
+4498,September 2019,Gisborne,200
+4499,September 2019,Gore,34
+4500,September 2019,Grey,34
+4501,September 2019,Hamilton,1190
+4502,September 2019,Hastings,417
+4503,September 2019,Hauraki,82
+4504,September 2019,Horowhenua,206
+4505,September 2019,Hurunui,25
+4506,September 2019,Invercargill,193
+4507,September 2019,Kaikoura,14
+4508,September 2019,Kaipara,52
+4509,September 2019,Kapiti Coast,162
+4510,September 2019,Kawerau,26
+4511,September 2019,Lower Hutt,544
+4512,September 2019,Mackenzie,3
+4513,September 2019,Manawatu,119
+4514,September 2019,Marlborough,161
+4515,September 2019,Masterton,118
+4516,September 2019,Matamata-Piako,130
+4517,September 2019,Napier,483
+4518,September 2019,Nelson,183
+4519,September 2019,New Plymouth,287
+4520,September 2019,Opotiki,63
+4521,September 2019,Otorohanga,19
+4522,September 2019,Palmerston North,704
+4523,September 2019,Porirua,212
+4524,September 2019,Queenstown-Lakes,90
+4525,September 2019,Rangitikei,22
+4526,September 2019,Rotorua,542
+4527,September 2019,Ruapehu,58
+4528,September 2019,Selwyn,87
+4529,September 2019,South Taranaki,70
+4530,September 2019,South Waikato,104
+4531,September 2019,South Wairarapa,19
+4532,September 2019,Southland,39
+4533,September 2019,Stratford,30
+4534,September 2019,Tararua,47
+4535,September 2019,Tasman,99
+4536,September 2019,Taupo,212
+4537,September 2019,Tauranga,622
+4538,September 2019,Thames-Coromandel,140
+4539,September 2019,Timaru,126
+4540,September 2019,Upper Hutt,147
+4541,September 2019,Waikato,319
+4542,September 2019,Waimakariri,139
+4543,September 2019,Waimate,15
+4544,September 2019,Waipa,150
+4545,September 2019,Wairoa,40
+4546,September 2019,Waitaki,72
+4547,September 2019,Waitomo,29
+4548,September 2019,Wanganui,178
+4549,September 2019,Wellington,812
+4550,September 2019,Western Bay of Plenty,142
+4551,September 2019,Westland,16
+4552,September 2019,Whakatane,168
+4553,September 2019,Whangarei,427
